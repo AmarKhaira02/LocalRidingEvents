@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:kel-inaugural-2026@okanagan-political-cal
-DTSTAMP:20261102T212804Z
+DTSTAMP:20261109T012331Z
 DTSTART:20261103T020000Z
 DTEND:20261103T040000Z
 SUMMARY:[Municipal Government] Kelowna Inaugural Council Meeting & Swearing
@@ -33,7 +33,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wk-inaugural-2026@okanagan-political-cal
-DTSTAMP:20261102T212804Z
+DTSTAMP:20261109T012331Z
 DTSTART:20261103T203000Z
 DTEND:20261103T230000Z
 SUMMARY:[Municipal Government] West Kelowna Inaugural Council Meeting + Fir
@@ -54,7 +54,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pch-inaugural-2026@okanagan-political-cal
-DTSTAMP:20261102T212804Z
+DTSTAMP:20261109T012331Z
 DTSTART:20261103T220000Z
 DTEND:20261103T233000Z
 SUMMARY:[Municipal Government] Peachland Inaugural Council Meeting & Sweari
@@ -74,7 +74,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wk-aac-2026-11@okanagan-political-cal
-DTSTAMP:20261102T212804Z
+DTSTAMP:20261109T012331Z
 DTSTART:20261105T000000Z
 DTEND:20261105T020000Z
 SUMMARY:[Committees & Advisory Bodies] West Kelowna Agricultural Advisory C
@@ -92,7 +92,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ao-offsite-2026@okanagan-political-cal
-DTSTAMP:20261102T212804Z
+DTSTAMP:20261109T012331Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:[Business & Economic Policy] Accelerate Okanagan OFFSITE (founders 
@@ -111,7 +111,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tradediv-reg-deadline@okanagan-political-cal
-DTSTAMP:20261102T212804Z
+DTSTAMP:20261109T012331Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:[Business & Economic Policy] DEADLINE: Register for 'Trade Diversif
@@ -130,7 +130,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:indig-vets-2026@okanagan-political-cal
-DTSTAMP:20261102T212804Z
+DTSTAMP:20261109T012331Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:[Indigenous & First Nations] Indigenous Veterans Day (Westbank Firs
@@ -149,7 +149,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:kel-regular-2026-11-09@okanagan-political-cal
-DTSTAMP:20261102T212804Z
+DTSTAMP:20261109T012331Z
 DTSTART:20261109T203000Z
 DTEND:20261110T000000Z
 SUMMARY:[Municipal Government] Kelowna City Council: First Regular Meeting 
@@ -169,7 +169,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tradediv-2026@okanagan-political-cal
-DTSTAMP:20261102T212804Z
+DTSTAMP:20261109T012331Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:[Business & Economic Policy] Trade Diversification: Where Do We Sta
@@ -177,8 +177,10 @@ SUMMARY:[Business & Economic Policy] Trade Diversification: Where Do We Sta
 DESCRIPTION:Category: Business & Economic Policy\n\nA three-hour in-person 
  session led by Sara Wilshaw\, Canada's Chief Trade Commissioner\, with the
   Kelowna Chamber\, on diversifying into EU and Indo-Pacific markets. Highl
- y relevant to federal trade policy and government relations. The start tim
- e wasn't published\; registration closes Nov 5.\n\nSource / more info: htt
+ y relevant to federal trade policy and government relations. Start time no
+ t published (time TBC). Registration has closed (Chamber deadline Nov 3)\;
+  Chamber event page: https://secure.kelownachamber.org/events/TradeDiversi
+ fication%20Where%20Do%20We%20Stand-7843/details\n\nSource / more info: htt
  ps://www.tradecommissioner.gc.ca/en/trade-events-training/2026/11/trade-di
  versification-where-do-we-stand.html
 LOCATION:Kelowna Innovation Centre (Theatre)\, 460 Doyle Avenue\, Kelowna\,
@@ -190,26 +192,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rem-wk-2026@okanagan-political-cal
-DTSTAMP:20261102T212804Z
+DTSTAMP:20261109T012331Z
 DTSTART:20261111T170000Z
 DTEND:20261111T190000Z
 SUMMARY:[Ceremonies & Commemorations] Remembrance Day: West Kelowna (Legion
   Branch #288)
-DESCRIPTION:Category: Ceremonies & Commemorations\n\nHonour parade at 10 a.
- m.\, service 10:45 a.m.–noon\, moment of silence at 11. Hosted by Royal 
- Canadian Legion Westbank Branch #288. The MP and local councils usually at
- tend. Times are based on past years\; confirm closer to the date.\n\nSourc
- e / more info: https://www.tourismkelowna.com/events/annual-events-festiva
- ls/fall/indigenous-veterans-day-remembrance-day/
+DESCRIPTION:Category: Ceremonies & Commemorations\n\nHosted by Royal Canadi
+ an Legion Westbank Branch #288. The 2026 listing says to be seated by 10:3
+ 0 a.m.\; the service starts at 10:45\, with the moment of silence at 11 an
+ d the service ending around noon. In past years an honour parade stepped o
+ ff around 10 a.m. (parade time not confirmed for 2026). The MP and local c
+ ouncils usually attend.\n\nSource / more info: https://www.valleyvibe.ca/e
+ vents/remembrance-day-kelowna-2026
 LOCATION:Royal LePage Place\, 2760 Cameron Rd\, West Kelowna\, BC
 CATEGORIES:Ceremonies & Commemorations
-URL:https://www.tourismkelowna.com/events/annual-events-festivals/fall/indi
- genous-veterans-day-remembrance-day/
+URL:https://www.valleyvibe.ca/events/remembrance-day-kelowna-2026
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rem-peachland-2026@okanagan-political-cal
-DTSTAMP:20261102T212804Z
+DTSTAMP:20261109T012331Z
 DTSTART:20261111T173000Z
 DTEND:20261111T190000Z
 SUMMARY:[Ceremonies & Commemorations] Remembrance Day: Peachland (Legion Br
@@ -225,7 +227,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rem-summerland-2026@okanagan-political-cal
-DTSTAMP:20261102T212804Z
+DTSTAMP:20261109T012331Z
 DTSTART:20261111T173000Z
 DTEND:20261111T190000Z
 SUMMARY:[Ceremonies & Commemorations] Remembrance Day: Summerland
@@ -241,7 +243,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rem-kelowna-2026@okanagan-political-cal
-DTSTAMP:20261102T212804Z
+DTSTAMP:20261109T012331Z
 DTSTART:20261111T174500Z
 DTEND:20261111T190000Z
 SUMMARY:[Ceremonies & Commemorations] Remembrance Day: Kelowna (Legion Bran
@@ -258,7 +260,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:innkeepers-2026@okanagan-political-cal
-DTSTAMP:20261102T212804Z
+DTSTAMP:20261109T012331Z
 DTSTART:20261115T020000Z
 DTEND:20261115T050000Z
 SUMMARY:[Charity & Fundraisers] 35th Innkeeper's Gala: 'A Diamond Affair' (
@@ -278,7 +280,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:kel-ph-2026-11-17@okanagan-political-cal
-DTSTAMP:20261102T212804Z
+DTSTAMP:20261109T012331Z
 DTSTART:20261117T230000Z
 DTEND:20261118T020000Z
 SUMMARY:[Municipal Government] Kelowna: First Public Hearing of New Council
@@ -296,7 +298,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wk-apc-2026-11@okanagan-political-cal
-DTSTAMP:20261102T212804Z
+DTSTAMP:20261109T012331Z
 DTSTART:20261118T210000Z
 DTEND:20261118T223000Z
 SUMMARY:[Committees & Advisory Bodies] West Kelowna Advisory Planning Commi
@@ -313,8 +315,50 @@ URL:https://www.westkelownacity.ca/en/city-hall/resources/Documents/APC-Mee
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:festival-of-trees-2026@okanagan-political-cal
+DTSTAMP:20261109T012331Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:[Charity & Fundraisers] 10th Annual Festival of Trees opens (BC Chi
+ ldren's Hospital Foundation)
+DESCRIPTION:Category: Charity & Fundraisers\n\nDecorated trees from local b
+ usiness sponsors go on display Nov 20\, 2026 to Jan 3\, 2027 at Mission Hi
+ ll in Dan Albas's riding\; public tasting experiences run Nov 21 to Dec 31
+  ($65\, $35 members)\, with part of the proceeds going to BC Children's Ho
+ spital Foundation. The sponsor tree-trimming party (Nov 19\, 5:30–7:30 p
+ .m.) is for sponsors only.\n\nSource / more info: https://www.missionhillw
+ inery.com/festival-of-trees-sponsorship
+LOCATION:Mission Hill Family Estate\, 1730 Mission Hill Road\, West Kelowna
+ \, BC
+CATEGORIES:Charity & Fundraisers
+URL:https://www.missionhillwinery.com/festival-of-trees-sponsorship
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chamber-bea-gala-2026@okanagan-political-cal
+DTSTAMP:20261109T012331Z
+DTSTART:20261121T003000Z
+DTEND:20261121T050000Z
+SUMMARY:[Business & Economic Policy] Kelowna Chamber 39th Annual Business E
+ xcellence Awards Gala
+DESCRIPTION:Category: Business & Economic Policy\n\nThe Kelowna Chamber of 
+ Commerce's biggest night of the year\, recognizing local businesses in its
+  120th anniversary year. Co-presented by Lawson Lundell LLP and BEEM Credi
+ t Union. Draws the Kelowna business community along with the mayor\, counc
+ illors\, MLAs and often the MP: one of the best networking rooms of the ye
+ ar for government relations. Tickets through the Chamber.\n\nSource / more
+  info: https://secure.kelownachamber.org/events/39thAnnual%20Business%20Ex
+ cellence%20Awards%20Gala-7811/details
+LOCATION:Delta Hotels by Marriott Grand Okanagan Resort\, 1310 Water Street
+ \, Kelowna\, BC
+CATEGORIES:Business & Economic Policy
+URL:https://secure.kelownachamber.org/events/39thAnnual%20Business%20Excell
+ ence%20Awards%20Gala-7811/details
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:treeofhope-2026@okanagan-political-cal
-DTSTAMP:20261102T212804Z
+DTSTAMP:20261109T012331Z
 DTSTART:20261121T200000Z
 DTEND:20261122T010000Z
 SUMMARY:[Charity & Fundraisers] Tree of Hope Festival
@@ -329,7 +373,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wk-aic-2026-11@okanagan-political-cal
-DTSTAMP:20261102T212804Z
+DTSTAMP:20261109T012331Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[Committees & Advisory Bodies] West Kelowna Accessibility & Inclusi
@@ -347,7 +391,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rdco-inaugural-2026@okanagan-political-cal
-DTSTAMP:20261102T212804Z
+DTSTAMP:20261109T012331Z
 DTSTART:20261126T153000Z
 DTEND:20261126T190000Z
 SUMMARY:[Regional Government] RDCO Inaugural Regular Board Meeting (new boa
@@ -362,6 +406,24 @@ LOCATION:RDCO Woodhaven Boardroom\, 1450 KLO Rd\, Kelowna\, BC
 CATEGORIES:Regional Government
 URL:https://www.rdco.com/media/dpqi2yjt/2026-board-and-committee-schedule.p
  df
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kgh-parade-purpose-2026@okanagan-political-cal
+DTSTAMP:20261109T012331Z
+DTSTART:20261206T010000Z
+DTEND:20261206T065500Z
+SUMMARY:[Charity & Fundraisers] Parade with a Purpose 2026 (KGH Foundation)
+DESCRIPTION:Category: Charity & Fundraisers\n\nKGH Foundation fundraiser su
+ pporting Kelowna General Hospital\, listed for the evening of Dec 5 downto
+ wn. The exact venue and format weren't published on the Foundation's calen
+ dar\; check the event page. Hospital foundation events typically draw loca
+ l business leaders and elected officials.\n\nSource / more info: https://w
+ ww.kghfoundation.com/events-mec/parade-with-a-purpose-2026/
+LOCATION:Downtown Kelowna\, BC (exact venue TBC\; KGH Foundation office: 22
+ 68 Pandosy Street\, Kelowna)
+CATEGORIES:Charity & Fundraisers
+URL:https://www.kghfoundation.com/events-mec/parade-with-a-purpose-2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
