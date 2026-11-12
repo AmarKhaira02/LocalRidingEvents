@@ -5,424 +5,660 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Okanagan Political & Civic Events
 X-WR-CALDESC:Political\, civic\, charity and community events in Okanagan L
- ake West—South Kelowna (Dan Albas) and Kelowna. Updated weekly.
+ ake West—South Kelowna (Dan Albas) and Kelowna. Updated daily.
 X-WR-TIMEZONE:America/Vancouver
-REFRESH-INTERVAL;VALUE=DURATION:PT12H
-X-PUBLISHED-TTL:PT12H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:kel-inaugural-2026@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART:20261103T020000Z
 DTEND:20261103T040000Z
-SUMMARY:[Municipal Government] Kelowna Inaugural Council Meeting & Swearing
- -In (2026–2030)
-DESCRIPTION:Category: Municipal Government\n\nJudge Clarke Burnett administ
- ers the Oath of Office to Mayor Tom Dyas and Councillors Les Bellamy\, Kev
- in Kraft\, Davis Kyle\, Gord Lovegrove\, Brady Rogers\, Mohini Singh\, Lau
- ra Thurnheer and Rick Webber. One-hour ceremony followed by a public coffe
- e and appetizer reception until 9 p.m. Open to the public\; livestreamed a
- t kelowna.ca/council. Good networking opportunity with the new council.\n\
- nSource / more info: https://www.am1150.ca/90986/news/municipal-news/city-
- of-kelowna/new-kelowna-city-council-to-be-sworn-in/
+SUMMARY:[Inaugural Meeting · Kelowna] Kelowna Inaugural Council Meeting & 
+ Swearing-In (2026–2030)
+DESCRIPTION:WHEN: Monday\, November 2\, 2026\, 7:00 p.m. to 9:00 p.m. (Kelo
+ wna time)\nWHERE: Mary Irwin Theatre\, Rotary Centre for the Arts\, 421 Ca
+ wston Ave\, Kelowna\, BC\n\nCATEGORY: Municipal Government\nTYPE: Inaugura
+ l Meeting\nJURISDICTION: Kelowna\nFEDERAL RIDING: Kelowna\nTAGS: Open to P
+ ublic\, Free\, Livestreamed\, Mayor & Council\, Networking Opportunity\, G
+ R Must-Attend\n\nABOUT:\nJudge Clarke Burnett administers the Oath of Offi
+ ce to Mayor Tom Dyas and Councillors Les Bellamy\, Kevin Kraft\, Davis Kyl
+ e\, Gord Lovegrove\, Brady Rogers\, Mohini Singh\, Laura Thurnheer and Ric
+ k Webber. One-hour ceremony followed by a public coffee and appetizer rece
+ ption until 9 p.m. Open to the public\; livestreamed at kelowna.ca/council
+ . Good networking opportunity with the new council.\n\nWHY IT MATTERS (GOV
+ ERNMENT RELATIONS):\nThe first chance to meet the full 2026–2030 Kelowna
+  council in an informal setting\; the reception is ideal for introducing y
+ ourself to new councillors before their portfolios and committee roles are
+  set.\n\nDETAILS:\nOrganizer: City of Kelowna\nWho attends: Mayor Tom Dyas
+  and all eight councillors\, Judge Clarke Burnett\, City senior staff\, fa
+ milies\, community and business leaders\nCost: Free\nAccess: Open to the p
+ ublic\; reception with coffee and appetizers follows the ceremony until 9 
+ p.m.\nLivestream: Livestreamed and archived at kelowna.ca/council\n\nSOURC
+ E: https://www.am1150.ca/90986/news/municipal-news/city-of-kelowna/new-kel
+ owna-city-council-to-be-sworn-in/
 LOCATION:Mary Irwin Theatre\, Rotary Centre for the Arts\, 421 Cawston Ave\
  , Kelowna\, BC
-CATEGORIES:Municipal Government
+CATEGORIES:Municipal Government,Inaugural Meeting,Kelowna,Open to Public,Fr
+ ee,Livestreamed,Mayor & Council,Networking Opportunity,GR Must-Attend
 URL:https://www.am1150.ca/90986/news/municipal-news/city-of-kelowna/new-kel
  owna-city-council-to-be-sworn-in/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wk-inaugural-2026@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART:20261103T203000Z
 DTEND:20261103T230000Z
-SUMMARY:[Municipal Government] West Kelowna Inaugural Council Meeting + Fir
- st Regular Meeting
-DESCRIPTION:Category: Municipal Government\n\nAcclaimed Mayor Stephen Johns
- ton and Councillors Justin Chapman\, Tasha Da Silva\, Rick de Jong\, Tom G
- roat\, Garrett Millsap and Chris Moyer are sworn in\, followed by the firs
- t regular council meeting. Expect appointments to the RDCO board. Public w
- elcome\; webcast at westkelownacity.ca/webcasts. In Dan Albas's riding.\n\
- nSource / more info: https://kelownacapnews.com/2026/11/02/central-okanaga
- n-city-councils-set-to-be-sworn-in/
+SUMMARY:[Inaugural Meeting · West Kelowna] West Kelowna Inaugural Council 
+ Meeting + First Regular Meeting
+DESCRIPTION:WHEN: Tuesday\, November 3\, 2026\, 1:30 p.m. to 4:00 p.m. (Kel
+ owna time)\nWHERE: West Kelowna City Hall Council Chambers\, 3731 Old Okan
+ agan Hwy\, West Kelowna\, BC\n\nCATEGORY: Municipal Government\nTYPE: Inau
+ gural Meeting\nJURISDICTION: West Kelowna\nFEDERAL RIDING: Okanagan Lake W
+ est—South Kelowna\nTAGS: Open to Public\, Free\, Livestreamed\, Mayor & 
+ Council\, GR Must-Attend\n\nABOUT:\nAcclaimed Mayor Stephen Johnston and C
+ ouncillors Justin Chapman\, Tasha Da Silva\, Rick de Jong\, Tom Groat\, Ga
+ rrett Millsap and Chris Moyer are sworn in\, followed by the first regular
+  council meeting. Expect appointments to the RDCO board. Public welcome\; 
+ webcast at westkelownacity.ca/webcasts. In Dan Albas's riding.\n\nWHY IT M
+ ATTERS (GOVERNMENT RELATIONS):\nSets the term's tone in Dan Albas's riding
+ \; watch for RDCO board appointments and deputy-mayor rotation\, which dec
+ ide who represents West Kelowna regionally.\n\nDETAILS:\nOrganizer: City o
+ f West Kelowna\nWho attends: Mayor Stephen Johnston and Councillors Justin
+  Chapman\, Tasha Da Silva\, Rick de Jong\, Tom Groat\, Garrett Millsap and
+  Chris Moyer\; City staff\nCost: Free\nAccess: Open to the public\nLivestr
+ eam: Webcast at westkelownacity.ca/webcasts\n\nSOURCE: https://kelownacapn
+ ews.com/2026/11/02/central-okanagan-city-councils-set-to-be-sworn-in/
 LOCATION:West Kelowna City Hall Council Chambers\, 3731 Old Okanagan Hwy\, 
  West Kelowna\, BC
-CATEGORIES:Municipal Government
+CATEGORIES:Municipal Government,Inaugural Meeting,West Kelowna,Open to Publ
+ ic,Free,Livestreamed,Mayor & Council,GR Must-Attend
 URL:https://kelownacapnews.com/2026/11/02/central-okanagan-city-councils-se
  t-to-be-sworn-in/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pch-inaugural-2026@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART:20261103T220000Z
 DTEND:20261103T233000Z
-SUMMARY:[Municipal Government] Peachland Inaugural Council Meeting & Sweari
- ng-In
-DESCRIPTION:Category: Municipal Government\n\nCorporate Officer Jennifer Sa
- watzky administers the oath to Mayor-elect Gail Mansell and six councillor
- s-elect. Peachland is in Dan Albas's riding. Venue is where Peachland coun
- cil normally meets\; confirm on peachland.ca.\n\nSource / more info: https
- ://kelownacapnews.com/2026/11/02/central-okanagan-city-councils-set-to-be-
- sworn-in/
+SUMMARY:[Inaugural Meeting · Peachland] Peachland Inaugural Council Meetin
+ g & Swearing-In
+DESCRIPTION:WHEN: Tuesday\, November 3\, 2026\, 3:00 p.m. to 4:30 p.m. (Kel
+ owna time)\nWHERE: Peachland Council Chambers\, Peachland Community Centre
+ \, 4450 6th Street\, Peachland\, BC\n\nCATEGORY: Municipal Government\nTYP
+ E: Inaugural Meeting\nJURISDICTION: Peachland\nFEDERAL RIDING: Okanagan La
+ ke West—South Kelowna\nTAGS: Open to Public\, Free\, Mayor & Council\, D
+ etails TBC\n\nABOUT:\nCorporate Officer Jennifer Sawatzky administers the 
+ oath to Mayor-elect Gail Mansell and six councillors-elect. Peachland is i
+ n Dan Albas's riding. Venue is where Peachland council normally meets\; co
+ nfirm on peachland.ca.\n\nWHY IT MATTERS (GOVERNMENT RELATIONS):\nPeachlan
+ d's new council will decide its RDCO director and committee appointments h
+ ere.\n\nDETAILS:\nOrganizer: District of Peachland\nWho attends: Mayor-ele
+ ct Gail Mansell\, six councillors-elect\, Corporate Officer Jennifer Sawat
+ zky\nCost: Free\nAccess: Open to the public\n\nNOT YET CONFIRMED: Venue as
+ sumed to be the usual council chambers\; confirm on peachland.ca.\n\nSOURC
+ E: https://kelownacapnews.com/2026/11/02/central-okanagan-city-councils-se
+ t-to-be-sworn-in/
 LOCATION:Peachland Council Chambers\, Peachland Community Centre\, 4450 6th
   Street\, Peachland\, BC
-CATEGORIES:Municipal Government
+CATEGORIES:Municipal Government,Inaugural Meeting,Peachland,Open to Public,
+ Free,Mayor & Council,Details TBC
 URL:https://kelownacapnews.com/2026/11/02/central-okanagan-city-councils-se
  t-to-be-sworn-in/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wk-aac-2026-11@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART:20261105T000000Z
 DTEND:20261105T020000Z
-SUMMARY:[Committees & Advisory Bodies] West Kelowna Agricultural Advisory C
- ommittee
-DESCRIPTION:Category: Committees & Advisory Bodies\n\nMonthly meeting (firs
- t Wednesday) of the City of West Kelowna Agricultural Advisory Committee. 
- Open to the public.\n\nSource / more info: https://westkelownacity-ca.govs
- tack.com/media/ebod0u42/aac-meeting-schedule-2026.pdf
+SUMMARY:[Advisory Committee · West Kelowna] West Kelowna Agricultural Advi
+ sory Committee
+DESCRIPTION:WHEN: Wednesday\, November 4\, 2026\, 5:00 p.m. to 7:00 p.m. (K
+ elowna time)\nWHERE: West Kelowna City Hall Council Chambers\, 3731 Old Ok
+ anagan Hwy\, West Kelowna\, BC\n\nCATEGORY: Committees & Advisory Bodies\n
+ TYPE: Advisory Committee\nJURISDICTION: West Kelowna\nFEDERAL RIDING: Okan
+ agan Lake West—South Kelowna\nTAGS: Open to Public\, Free\, Agriculture\
+ , Land Use & Zoning\n\nABOUT:\nMonthly meeting (first Wednesday) of the Ci
+ ty of West Kelowna Agricultural Advisory Committee. Open to the public.\n\
+ nWHY IT MATTERS (GOVERNMENT RELATIONS):\nWhere ALR and farm-related land-u
+ se applications are vetted before council.\n\nDETAILS:\nOrganizer: City of
+  West Kelowna\nWho attends: Committee members (local farmers and residents
+ )\, council liaison\, planning staff\nCost: Free\nAccess: Open to the publ
+ ic\nAgenda: Posted on westkelownacity.ca before the meeting\n\nSOURCE: htt
+ ps://westkelownacity-ca.govstack.com/media/ebod0u42/aac-meeting-schedule-2
+ 026.pdf
 LOCATION:West Kelowna City Hall Council Chambers\, 3731 Old Okanagan Hwy\, 
  West Kelowna\, BC
-CATEGORIES:Committees & Advisory Bodies
+CATEGORIES:Committees & Advisory Bodies,Advisory Committee,West Kelowna,Ope
+ n to Public,Free,Agriculture,Land Use & Zoning
 URL:https://westkelownacity-ca.govstack.com/media/ebod0u42/aac-meeting-sche
  dule-2026.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ao-offsite-2026@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:[Business & Economic Policy] Accelerate Okanagan OFFSITE (founders 
- & C-suite)
-DESCRIPTION:Category: Business & Economic Policy\n\nAccelerate Okanagan's a
- ll-day event for founders and C-suite leaders\, presented by TELUS: keynot
- es\, panels\, workshops and a closing networking happy hour. Exact hours w
- eren't published\; check Accelerate Okanagan.\n\nSource / more info: https
- ://www.tourismkelowna.com/industry/industry-news-centre/post/upcoming-busi
- ness-events-and-webinars-october-19-november-6-2026/
+SUMMARY:[Conference / Summit · Kelowna] Accelerate Okanagan OFFSITE (found
+ ers & C-suite)
+DESCRIPTION:WHEN: Thursday\, November 5\, 2026 (all day / time TBC)\nWHERE:
+  KF Centre for Excellence\, Kelowna\, BC\n\nCATEGORY: Business & Economic 
+ Policy\nTYPE: Conference / Summit\nJURISDICTION: Kelowna\nTAGS: Ticketed\,
+  Business Leaders\, Networking Opportunity\, Trade & Economy\, Details TBC
+ \n\nABOUT:\nAccelerate Okanagan's all-day event for founders and C-suite l
+ eaders\, presented by TELUS: keynotes\, panels\, workshops and a closing n
+ etworking happy hour. Exact hours weren't published\; check Accelerate Oka
+ nagan.\n\nWHY IT MATTERS (GOVERNMENT RELATIONS):\nTech-sector leaders are 
+ key stakeholders on innovation\, talent and immigration policy.\n\nDETAILS
+ :\nOrganizer: Accelerate Okanagan (presented by TELUS)\nWho attends: Tech 
+ founders\, C-suite leaders\, investors\nAccess: Ticketed\; aimed at founde
+ rs and C-suite\n\nNOT YET CONFIRMED: Event hours weren't published.\n\nSOU
+ RCE: https://www.tourismkelowna.com/industry/industry-news-centre/post/upc
+ oming-business-events-and-webinars-october-19-november-6-2026/
 LOCATION:KF Centre for Excellence\, Kelowna\, BC
-CATEGORIES:Business & Economic Policy
+CATEGORIES:Business & Economic Policy,Conference / Summit,Kelowna,Ticketed,
+ Business Leaders,Networking Opportunity,Trade & Economy,Details TBC
 URL:https://www.tourismkelowna.com/industry/industry-news-centre/post/upcom
  ing-business-events-and-webinars-october-19-november-6-2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tradediv-reg-deadline@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:[Business & Economic Policy] DEADLINE: Register for 'Trade Diversif
- ication' with Canada's Chief Trade Commissioner
-DESCRIPTION:Category: Business & Economic Policy\n\nRegistration deadline f
- or the Nov 10 event in Kelowna. The Trade Commissioner Service lists Nov 5
- \; Tourism Kelowna's roundup says registration through the Kelowna Chamber
-  closes Nov 3.\n\nSource / more info: https://www.tradecommissioner.gc.ca/
- en/trade-events-training/2026/11/trade-diversification-where-do-we-stand.h
- tml
+SUMMARY:[Registration Deadline · Online] DEADLINE: Register for 'Trade Div
+ ersification' with Canada's Chief Trade Commissioner
+DESCRIPTION:WHEN: Thursday\, November 5\, 2026 (all day / time TBC)\nWHERE:
+  Online\n\nCATEGORY: Business & Economic Policy\nTYPE: Registration Deadli
+ ne\nJURISDICTION: Online\nTAGS: Deadline\, Registration Required\, Trade &
+  Economy\n\nABOUT:\nRegistration deadline for the Nov 10 event in Kelowna.
+  The Trade Commissioner Service lists Nov 5\; Tourism Kelowna's roundup sa
+ ys registration through the Kelowna Chamber closes Nov 3.\n\nDETAILS:\nOrg
+ anizer: Kelowna Chamber of Commerce / Trade Commissioner Service\nAccess: 
+ Online registration\nRegistration / tickets: https://secure.kelownachamber
+ .org/events/TradeDiversification%20Where%20Do%20We%20Stand-7843/details\n\
+ nSOURCE: https://www.tradecommissioner.gc.ca/en/trade-events-training/2026
+ /11/trade-diversification-where-do-we-stand.html
 LOCATION:Online
-CATEGORIES:Business & Economic Policy
+CATEGORIES:Business & Economic Policy,Registration Deadline,Online,Deadline
+ ,Registration Required,Trade & Economy
 URL:https://www.tradecommissioner.gc.ca/en/trade-events-training/2026/11/tr
  ade-diversification-where-do-we-stand.html
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:indig-vets-2026@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-SUMMARY:[Indigenous & First Nations] Indigenous Veterans Day (Westbank Firs
- t Nation ceremony: date TBC)
-DESCRIPTION:Category: Indigenous & First Nations\n\nNational Indigenous Vet
- erans Day. Westbank First Nation\, which sits in the heart of the riding\,
-  holds a public ceremony at its cenotaph every year\; in 2025 it was held 
- the Friday before (Nov 7\, 10:30 a.m.–noon\, lunch to follow). Nov 8 202
- 6 is a Sunday\, so check wfn.ca for this year's date. Chief\, council and 
- local elected officials usually attend.\n\nSource / more info: https://wfn
- .ca/blog/Indigenous-Veterans-Day.htm
+SUMMARY:[Indigenous Ceremony · Westbank First Nation] Indigenous Veterans 
+ Day (Westbank First Nation ceremony: date TBC)
+DESCRIPTION:WHEN: Sunday\, November 8\, 2026 (all day / time TBC)\nWHERE: W
+ FN Cenotaph\, 1900 Quail Lane\, Westbank\, BC\n\nCATEGORY: Indigenous & Fi
+ rst Nations\nTYPE: Indigenous Ceremony\nJURISDICTION: Westbank First Natio
+ n\nFEDERAL RIDING: Okanagan Lake West—South Kelowna\nTAGS: Open to Publi
+ c\, Free\, WFN Chief & Council\, Veterans\, Reconciliation\, Details TBC\n
+ \nABOUT:\nNational Indigenous Veterans Day. Westbank First Nation\, which 
+ sits in the heart of the riding\, holds a public ceremony at its cenotaph 
+ every year\; in 2025 it was held the Friday before (Nov 7\, 10:30 a.m.–n
+ oon\, lunch to follow). Nov 8 2026 is a Sunday\, so check wfn.ca for this 
+ year's date. Chief\, council and local elected officials usually attend.\n
+ \nWHY IT MATTERS (GOVERNMENT RELATIONS):\nAttending WFN ceremonies builds 
+ relationships with WFN leadership\, a self-governing First Nation and a ma
+ jor economic player in the riding.\n\nDETAILS:\nOrganizer: Westbank First 
+ Nation\nWho attends: WFN Chief and Council\, veterans\, members\, local el
+ ected officials\nCost: Free\nAccess: Open to the public\; lunch served aft
+ erwards in past years\nContact: WFN Membership Services: membershipservice
+ s@wfn.ca\, 250-768-0227\n\nNOT YET CONFIRMED: 2026 date and time not yet p
+ ublished by WFN.\n\nSOURCE: https://wfn.ca/blog/Indigenous-Veterans-Day.htm
 LOCATION:WFN Cenotaph\, 1900 Quail Lane\, Westbank\, BC
-CATEGORIES:Indigenous & First Nations
+CATEGORIES:Indigenous & First Nations,Indigenous Ceremony,Westbank First Na
+ tion,Open to Public,Free,WFN Chief & Council,Veterans,Reconciliation,Detai
+ ls TBC
 URL:https://wfn.ca/blog/Indigenous-Veterans-Day.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:kel-regular-2026-11-09@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART:20261109T203000Z
 DTEND:20261110T000000Z
-SUMMARY:[Municipal Government] Kelowna City Council: First Regular Meeting 
- of New Term
-DESCRIPTION:Category: Municipal Government\n\nFirst regular meeting of the 
+SUMMARY:[Council Meeting · Kelowna] Kelowna City Council: First Regular Me
+ eting of New Term
+DESCRIPTION:WHEN: Monday\, November 9\, 2026\, 1:30 p.m. to 5:00 p.m. (Kelo
+ wna time)\nWHERE: Council Chamber\, Kelowna City Hall\, 1435 Water Street\
+ , Kelowna\, BC\n\nCATEGORY: Municipal Government\nTYPE: Council Meeting\nJ
+ URISDICTION: Kelowna\nFEDERAL RIDING: Kelowna\nTAGS: Open to Public\, Free
+ \, Livestreamed\, Mayor & Council\n\nABOUT:\nFirst regular meeting of the 
  2026–2030 council. Kelowna's regular public meetings are Mondays at 1:30
   p.m.\; council also meets Monday mornings at 9 a.m. for policy and in-cam
  era business. Livestreamed at kelowna.ca/council. Check the agenda for the
-  exact times.\n\nSource / more info: https://www.am1150.ca/90986/news/muni
- cipal-news/city-of-kelowna/new-kelowna-city-council-to-be-sworn-in/
+  exact times.\n\nWHY IT MATTERS (GOVERNMENT RELATIONS):\nThe first busines
+ s meeting of the new council signals early priorities and which staff repo
+ rts come forward first.\n\nDETAILS:\nOrganizer: City of Kelowna\nWho atten
+ ds: Mayor and council\, City senior staff\, delegations\nCost: Free\nAcces
+ s: Open to the public\nLivestream: Livestreamed and archived at kelowna.ca
+ /council\nAgenda: Posted at kelowna.ca/council\n\nNOT YET CONFIRMED: Exact
+  afternoon start time\; check the agenda.\n\nSOURCE: https://www.am1150.ca
+ /90986/news/municipal-news/city-of-kelowna/new-kelowna-city-council-to-be-
+ sworn-in/
 LOCATION:Council Chamber\, Kelowna City Hall\, 1435 Water Street\, Kelowna\
  , BC
-CATEGORIES:Municipal Government
+CATEGORIES:Municipal Government,Council Meeting,Kelowna,Open to Public,Free
+ ,Livestreamed,Mayor & Council
 URL:https://www.am1150.ca/90986/news/municipal-news/city-of-kelowna/new-kel
  owna-city-council-to-be-sworn-in/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tradediv-2026@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:[Business & Economic Policy] Trade Diversification: Where Do We Sta
+SUMMARY:[Policy Briefing · Kelowna] Trade Diversification: Where Do We Sta
  nd? (Sara Wilshaw\, Chief Trade Commissioner)
-DESCRIPTION:Category: Business & Economic Policy\n\nA three-hour in-person 
- session led by Sara Wilshaw\, Canada's Chief Trade Commissioner\, with the
-  Kelowna Chamber\, on diversifying into EU and Indo-Pacific markets. Highl
- y relevant to federal trade policy and government relations. Start time no
- t published (time TBC). Registration has closed (Chamber deadline Nov 3)\;
-  Chamber event page: https://secure.kelownachamber.org/events/TradeDiversi
- fication%20Where%20Do%20We%20Stand-7843/details\n\nSource / more info: htt
- ps://www.tradecommissioner.gc.ca/en/trade-events-training/2026/11/trade-di
- versification-where-do-we-stand.html
+DESCRIPTION:WHEN: Tuesday\, November 10\, 2026 (all day / time TBC)\nWHERE:
+  Kelowna Innovation Centre (Theatre)\, 460 Doyle Avenue\, Kelowna\, BC\n\n
+ CATEGORY: Business & Economic Policy\nTYPE: Policy Briefing\nJURISDICTION:
+  Kelowna\nFEDERAL RIDING: Kelowna\nTAGS: Registration Required\, Senior Pu
+ blic Servants\, Business Leaders\, Trade & Economy\, Networking Opportunit
+ y\, GR Must-Attend\, Details TBC\n\nABOUT:\nA three-hour in-person session
+  led by Sara Wilshaw\, Canada's Chief Trade Commissioner\, with the Kelown
+ a Chamber\, on diversifying into EU and Indo-Pacific markets. Highly relev
+ ant to federal trade policy and government relations. Start time not publi
+ shed (time TBC). Registration has closed (Chamber deadline Nov 3)\; Chambe
+ r event page: https://secure.kelownachamber.org/events/TradeDiversificatio
+ n%20Where%20Do%20We%20Stand-7843/details\n\nWHY IT MATTERS (GOVERNMENT REL
+ ATIONS):\nRare local access to one of Canada's most senior trade officials
+ \; directly relevant to federal trade policy and Canada–US trade.\n\nDET
+ AILS:\nOrganizer: Kelowna Chamber of Commerce with the Trade Commissioner 
+ Service (Global Affairs Canada)\nWho attends: Sara Wilshaw (Chief Trade Co
+ mmissioner of Canada)\, exporters\, Chamber members\nAccess: Registration 
+ required\; registration has closed\nRegistration / tickets: https://secure
+ .kelownachamber.org/events/TradeDiversification%20Where%20Do%20We%20Stand-
+ 7843/details\n\nNOT YET CONFIRMED: Start time not published.\n\nSOURCE: ht
+ tps://www.tradecommissioner.gc.ca/en/trade-events-training/2026/11/trade-d
+ iversification-where-do-we-stand.html
 LOCATION:Kelowna Innovation Centre (Theatre)\, 460 Doyle Avenue\, Kelowna\,
   BC
-CATEGORIES:Business & Economic Policy
+CATEGORIES:Business & Economic Policy,Policy Briefing,Kelowna,Registration 
+ Required,Senior Public Servants,Business Leaders,Trade & Economy,Networkin
+ g Opportunity,GR Must-Attend,Details TBC
 URL:https://www.tradecommissioner.gc.ca/en/trade-events-training/2026/11/tr
  ade-diversification-where-do-we-stand.html
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rem-wk-2026@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART:20261111T170000Z
 DTEND:20261111T190000Z
-SUMMARY:[Ceremonies & Commemorations] Remembrance Day: West Kelowna (Legion
-  Branch #288)
-DESCRIPTION:Category: Ceremonies & Commemorations\n\nHosted by Royal Canadi
- an Legion Westbank Branch #288. The 2026 listing says to be seated by 10:3
- 0 a.m.\; the service starts at 10:45\, with the moment of silence at 11 an
- d the service ending around noon. In past years an honour parade stepped o
- ff around 10 a.m. (parade time not confirmed for 2026). The MP and local c
- ouncils usually attend.\n\nSource / more info: https://www.valleyvibe.ca/e
- vents/remembrance-day-kelowna-2026
+SUMMARY:[Remembrance Ceremony · West Kelowna] Remembrance Day: West Kelown
+ a (Legion Branch #288)
+DESCRIPTION:WHEN: Wednesday\, November 11\, 2026\, 10:00 a.m. to 12:00 p.m.
+  (Kelowna time)\nWHERE: Royal LePage Place\, 2760 Cameron Rd\, West Kelown
+ a\, BC\n\nCATEGORY: Ceremonies & Commemorations\nTYPE: Remembrance Ceremon
+ y\nJURISDICTION: West Kelowna\nFEDERAL RIDING: Okanagan Lake West—South 
+ Kelowna\nTAGS: Open to Public\, Free\, Mayor & Council\, MP\, Veterans\, D
+ etails TBC\n\nABOUT:\nHosted by Royal Canadian Legion Westbank Branch #288
+ . The 2026 listing says to be seated by 10:30 a.m.\; the service starts at
+  10:45\, with the moment of silence at 11 and the service ending around no
+ on. In past years an honour parade stepped off around 10 a.m. (parade time
+  not confirmed for 2026). The MP and local councils usually attend.\n\nWHY
+  IT MATTERS (GOVERNMENT RELATIONS):\nThe main Remembrance Day ceremony in 
+ Dan Albas's riding.\n\nDETAILS:\nOrganizer: Royal Canadian Legion Westbank
+  Branch #288\nWho attends: Veterans\, MP Dan Albas (usually)\, West Kelown
+ a council\, WFN representatives\, residents\nCost: Free\nAccess: Open to t
+ he public\; be seated by 10:30 a.m.\n\nNOT YET CONFIRMED: Parade time for 
+ 2026.\n\nSOURCE: https://www.valleyvibe.ca/events/remembrance-day-kelowna-
+ 2026
 LOCATION:Royal LePage Place\, 2760 Cameron Rd\, West Kelowna\, BC
-CATEGORIES:Ceremonies & Commemorations
+CATEGORIES:Ceremonies & Commemorations,Remembrance Ceremony,West Kelowna,Op
+ en to Public,Free,Mayor & Council,MP,Veterans,Details TBC
 URL:https://www.valleyvibe.ca/events/remembrance-day-kelowna-2026
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rem-peachland-2026@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART:20261111T173000Z
 DTEND:20261111T190000Z
-SUMMARY:[Ceremonies & Commemorations] Remembrance Day: Peachland (Legion Br
- anch #69)
-DESCRIPTION:Category: Ceremonies & Commemorations\n\nCeremony at Cenotaph P
- ark with a reception afterwards at Legion Branch #69. Times are based on p
- ast years\; confirm closer to the date.\n\nSource / more info: https://inf
- onews.ca/?p=2466565
+SUMMARY:[Remembrance Ceremony · Peachland] Remembrance Day: Peachland (Leg
+ ion Branch #69)
+DESCRIPTION:WHEN: Wednesday\, November 11\, 2026\, 10:30 a.m. to 12:00 p.m.
+  (Kelowna time)\nWHERE: Cenotaph Park\, Beach Ave & 2nd St\, Peachland\, B
+ C\n\nCATEGORY: Ceremonies & Commemorations\nTYPE: Remembrance Ceremony\nJU
+ RISDICTION: Peachland\nFEDERAL RIDING: Okanagan Lake West—South Kelowna\
+ nTAGS: Open to Public\, Free\, Mayor & Council\, Veterans\, Details TBC\n\
+ nABOUT:\nCeremony at Cenotaph Park with a reception afterwards at Legion B
+ ranch #69. Times are based on past years\; confirm closer to the date.\n\n
+ DETAILS:\nOrganizer: Royal Canadian Legion Peachland Branch #69\nWho atten
+ ds: Veterans\, Peachland mayor and council\, residents\nCost: Free\nAccess
+ : Open to the public\; reception at the Legion afterwards\n\nNOT YET CONFI
+ RMED: Times based on previous years.\n\nSOURCE: https://infonews.ca/?p=246
+ 6565
 LOCATION:Cenotaph Park\, Beach Ave & 2nd St\, Peachland\, BC
-CATEGORIES:Ceremonies & Commemorations
+CATEGORIES:Ceremonies & Commemorations,Remembrance Ceremony,Peachland,Open 
+ to Public,Free,Mayor & Council,Veterans,Details TBC
 URL:https://infonews.ca/?p=2466565
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rem-summerland-2026@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART:20261111T173000Z
 DTEND:20261111T190000Z
-SUMMARY:[Ceremonies & Commemorations] Remembrance Day: Summerland
-DESCRIPTION:Category: Ceremonies & Commemorations\n\nParade of Legion membe
- rs\, veterans and the Summerland Pipe Band leaves Wharton St at 10:30 a.m.
-  and marches to the Memorial Park cenotaph\; two minutes of silence at 11.
-  The Legion (14205 Rosedale Ave) opens at noon. Times are based on past ye
- ars.\n\nSource / more info: https://infonews.ca/?p=2466565
+SUMMARY:[Remembrance Ceremony · Summerland] Remembrance Day: Summerland
+DESCRIPTION:WHEN: Wednesday\, November 11\, 2026\, 10:30 a.m. to 12:00 p.m.
+  (Kelowna time)\nWHERE: Memorial Park\, Wharton Street\, Summerland\, BC\n
+ \nCATEGORY: Ceremonies & Commemorations\nTYPE: Remembrance Ceremony\nJURIS
+ DICTION: Summerland\nFEDERAL RIDING: Okanagan Lake West—South Kelowna\nT
+ AGS: Open to Public\, Free\, Mayor & Council\, Veterans\, Details TBC\n\nA
+ BOUT:\nParade of Legion members\, veterans and the Summerland Pipe Band le
+ aves Wharton St at 10:30 a.m. and marches to the Memorial Park cenotaph\; 
+ two minutes of silence at 11. The Legion (14205 Rosedale Ave) opens at noo
+ n. Times are based on past years.\n\nDETAILS:\nOrganizer: Royal Canadian L
+ egion Summerland Branch\nWho attends: Veterans\, Legion members\, Summerla
+ nd Pipe Band\, mayor and council\, residents\nCost: Free\nAccess: Open to 
+ the public\; Legion (14205 Rosedale Ave) opens at noon\n\nNOT YET CONFIRME
+ D: Times based on previous years.\n\nSOURCE: https://infonews.ca/?p=2466565
 LOCATION:Memorial Park\, Wharton Street\, Summerland\, BC
-CATEGORIES:Ceremonies & Commemorations
+CATEGORIES:Ceremonies & Commemorations,Remembrance Ceremony,Summerland,Open
+  to Public,Free,Mayor & Council,Veterans,Details TBC
 URL:https://infonews.ca/?p=2466565
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rem-kelowna-2026@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART:20261111T174500Z
 DTEND:20261111T190000Z
-SUMMARY:[Ceremonies & Commemorations] Remembrance Day: Kelowna (Legion Bran
- ch #26)
-DESCRIPTION:Category: Ceremonies & Commemorations\n\nThe region's largest c
- eremony: a parade from Bernard Ave & Water St to the City Park cenotaph\, 
- organized by Royal Canadian Legion Kelowna Branch #26. Elected officials l
- ay wreaths. Times are based on past years\; confirm closer to the date.\n\
- nSource / more info: https://infonews.ca/?p=2466565
+SUMMARY:[Remembrance Ceremony · Kelowna] Remembrance Day: Kelowna (Legion 
+ Branch #26)
+DESCRIPTION:WHEN: Wednesday\, November 11\, 2026\, 10:45 a.m. to 12:00 p.m.
+  (Kelowna time)\nWHERE: City Park Cenotaph\, 1600 Abbott St\, Kelowna\, BC
+ \n\nCATEGORY: Ceremonies & Commemorations\nTYPE: Remembrance Ceremony\nJUR
+ ISDICTION: Kelowna\nFEDERAL RIDING: Kelowna\nTAGS: Open to Public\, Free\,
+  Mayor & Council\, MP\, MLA\, Veterans\, Details TBC\n\nABOUT:\nThe region
+ 's largest ceremony: a parade from Bernard Ave & Water St to the City Park
+  cenotaph\, organized by Royal Canadian Legion Kelowna Branch #26. Elected
+  officials lay wreaths. Times are based on past years\; confirm closer to 
+ the date.\n\nWHY IT MATTERS (GOVERNMENT RELATIONS):\nNearly every local el
+ ected official attends and lays a wreath\; a respectful occasion to be see
+ n in the community.\n\nDETAILS:\nOrganizer: Royal Canadian Legion Kelowna 
+ Branch #26\nWho attends: Veterans\, Canadian Armed Forces\, RCMP\, cadets\
+ , Mayor and council\, MPs and MLAs laying wreaths\, thousands of residents
+ \nCost: Free\nAccess: Open to the public\; arrive early\, crowds are large
+ \n\nNOT YET CONFIRMED: Times based on previous years.\n\nSOURCE: https://i
+ nfonews.ca/?p=2466565
 LOCATION:City Park Cenotaph\, 1600 Abbott St\, Kelowna\, BC
-CATEGORIES:Ceremonies & Commemorations
+CATEGORIES:Ceremonies & Commemorations,Remembrance Ceremony,Kelowna,Open to
+  Public,Free,Mayor & Council,MP,MLA,Veterans,Details TBC
 URL:https://infonews.ca/?p=2466565
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:innkeepers-2026@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART:20261115T020000Z
 DTEND:20261115T050000Z
-SUMMARY:[Charity & Fundraisers] 35th Innkeeper's Gala: 'A Diamond Affair' (
- Hotel Eldorado 100th)
-DESCRIPTION:Category: Charity & Fundraisers\n\nBilled as Kelowna's top char
- itable event\; more than 350 guests and usually sells out. Proceeds go to 
- Okanagan College's Centre for Food\, Wine and Tourism and Kelowna General 
- Hospital (including JoeAnna's House). A VIP 'Elevated Prelude' runs before
-  the gala. Business and civic leaders attend. Tickets on Eventbrite.\n\nSo
- urce / more info: https://www.eventbrite.ca/e/35th-annual-innkeepers-gala-
- tickets-2002479432889
+SUMMARY:[Gala · Kelowna] 35th Innkeeper's Gala: 'A Diamond Affair' (Hotel 
+ Eldorado 100th)
+DESCRIPTION:WHEN: Saturday\, November 14\, 2026\, 7:00 p.m. to 10:00 p.m. (
+ Kelowna time)\nWHERE: Hotel Eldorado\, 500 Cook Rd\, Kelowna\, BC\n\nCATEG
+ ORY: Charity & Fundraisers\nTYPE: Gala\nJURISDICTION: Kelowna\nTAGS: Ticke
+ ted\, Business Leaders\, Health Care\, Tourism\, Networking Opportunity\n\
+ nABOUT:\nBilled as Kelowna's top charitable event\; more than 350 guests a
+ nd usually sells out. Proceeds go to Okanagan College's Centre for Food\, 
+ Wine and Tourism and Kelowna General Hospital (including JoeAnna's House).
+  A VIP 'Elevated Prelude' runs before the gala. Business and civic leaders
+  attend. Tickets on Eventbrite.\n\nWHY IT MATTERS (GOVERNMENT RELATIONS):\
+ nOne of Kelowna's highest-profile charity evenings\; good for meeting dono
+ rs and business leaders who sit on local boards.\n\nDETAILS:\nOrganizer: H
+ otel Eldorado\nWho attends: 350+ guests: business owners\, hospitality and
+  civic leaders\nAccess: Ticketed\; usually sells out (listed as almost ful
+ l)\nRegistration / tickets: https://www.eventbrite.ca/e/35th-annual-innkee
+ pers-gala-tickets-2002479432889\n\nSOURCE: https://www.eventbrite.ca/e/35t
+ h-annual-innkeepers-gala-tickets-2002479432889
 LOCATION:Hotel Eldorado\, 500 Cook Rd\, Kelowna\, BC
-CATEGORIES:Charity & Fundraisers
+CATEGORIES:Charity & Fundraisers,Gala,Kelowna,Ticketed,Business Leaders,Hea
+ lth Care,Tourism,Networking Opportunity
 URL:https://www.eventbrite.ca/e/35th-annual-innkeepers-gala-tickets-2002479
  432889
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:kel-ph-2026-11-17@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART:20261117T230000Z
 DTEND:20261118T020000Z
-SUMMARY:[Municipal Government] Kelowna: First Public Hearing of New Council
-DESCRIPTION:Category: Municipal Government\n\nThe new council's first Tuesd
- ay public hearing and regular meeting on development and zoning applicatio
- ns. The City's council guide lists Tuesday hearings at 4 p.m.\; confirm on
-  the agenda at kelowna.ca/council.\n\nSource / more info: https://vernonma
- tters.ca/2026/10/30/kelownas-new-city-council-to-be-sworn-in-monday-night/
+SUMMARY:[Public Hearing · Kelowna] Kelowna: First Public Hearing of New Co
+ uncil
+DESCRIPTION:WHEN: Tuesday\, November 17\, 2026\, 4:00 p.m. to 7:00 p.m. (Ke
+ lowna time)\nWHERE: Council Chamber\, Kelowna City Hall\, 1435 Water Stree
+ t\, Kelowna\, BC\n\nCATEGORY: Municipal Government\nTYPE: Public Hearing\n
+ JURISDICTION: Kelowna\nFEDERAL RIDING: Kelowna\nTAGS: Open to Public\, Fre
+ e\, Livestreamed\, Delegations / Public Input\, Mayor & Council\, Housing 
+ & Development\, Land Use & Zoning\, GR Must-Attend\n\nABOUT:\nThe new coun
+ cil's first Tuesday public hearing and regular meeting on development and 
+ zoning applications. The City's council guide lists Tuesday hearings at 4 
+ p.m.\; confirm on the agenda at kelowna.ca/council.\n\nWHY IT MATTERS (GOV
+ ERNMENT RELATIONS):\nThe clearest window into how the new council votes on
+  housing and development\; watch who speaks on behalf of the development i
+ ndustry.\n\nDETAILS:\nOrganizer: City of Kelowna\nWho attends: Mayor and c
+ ouncil\, planning staff\, applicants\, developers\, neighbours speaking fo
+ r or against applications\nCost: Free\nAccess: Open to the public\; member
+ s of the public may speak to items on the hearing agenda\nLivestream: Live
+ streamed and archived at kelowna.ca/council\nAgenda: Posted at kelowna.ca/
+ council\n\nNOT YET CONFIRMED: Start time (4 p.m. per City guide)\; confirm
+  on the agenda.\n\nSOURCE: https://vernonmatters.ca/2026/10/30/kelownas-ne
+ w-city-council-to-be-sworn-in-monday-night/
 LOCATION:Council Chamber\, Kelowna City Hall\, 1435 Water Street\, Kelowna\
  , BC
-CATEGORIES:Municipal Government
+CATEGORIES:Municipal Government,Public Hearing,Kelowna,Open to Public,Free,
+ Livestreamed,Delegations / Public Input,Mayor & Council,Housing & Developm
+ ent,Land Use & Zoning,GR Must-Attend
 URL:https://vernonmatters.ca/2026/10/30/kelownas-new-city-council-to-be-swo
  rn-in-monday-night/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wk-apc-2026-11@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART:20261118T210000Z
 DTEND:20261118T223000Z
-SUMMARY:[Committees & Advisory Bodies] West Kelowna Advisory Planning Commi
- ssion
-DESCRIPTION:Category: Committees & Advisory Bodies\n\nMonthly meeting (thir
- d Wednesday) of the APC\, which reviews land-use and development applicati
- ons before they go to council.\n\nSource / more info: https://www.westkelo
- wnacity.ca/en/city-hall/resources/Documents/APC-Meeting-Schedule---2026.pdf
+SUMMARY:[Advisory Committee · West Kelowna] West Kelowna Advisory Planning
+  Commission
+DESCRIPTION:WHEN: Wednesday\, November 18\, 2026\, 2:00 p.m. to 3:30 p.m. (
+ Kelowna time)\nWHERE: West Kelowna City Hall Council Chambers\, 3731 Old O
+ kanagan Hwy\, West Kelowna\, BC\n\nCATEGORY: Committees & Advisory Bodies\
+ nTYPE: Advisory Committee\nJURISDICTION: West Kelowna\nFEDERAL RIDING: Oka
+ nagan Lake West—South Kelowna\nTAGS: Open to Public\, Free\, Land Use & 
+ Zoning\, Housing & Development\n\nABOUT:\nMonthly meeting (third Wednesday
+ ) of the APC\, which reviews land-use and development applications before 
+ they go to council.\n\nDETAILS:\nOrganizer: City of West Kelowna\nWho atte
+ nds: Commission members\, planning staff\, applicants\nCost: Free\nAccess:
+  Open to the public\nAgenda: Posted on westkelownacity.ca before the meeti
+ ng\n\nSOURCE: https://www.westkelownacity.ca/en/city-hall/resources/Docume
+ nts/APC-Meeting-Schedule---2026.pdf
 LOCATION:West Kelowna City Hall Council Chambers\, 3731 Old Okanagan Hwy\, 
  West Kelowna\, BC
-CATEGORIES:Committees & Advisory Bodies
+CATEGORIES:Committees & Advisory Bodies,Advisory Committee,West Kelowna,Ope
+ n to Public,Free,Land Use & Zoning,Housing & Development
 URL:https://www.westkelownacity.ca/en/city-hall/resources/Documents/APC-Mee
  ting-Schedule---2026.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:festival-of-trees-2026@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:[Charity & Fundraisers] 10th Annual Festival of Trees opens (BC Chi
- ldren's Hospital Foundation)
-DESCRIPTION:Category: Charity & Fundraisers\n\nDecorated trees from local b
- usiness sponsors go on display Nov 20\, 2026 to Jan 3\, 2027 at Mission Hi
- ll in Dan Albas's riding\; public tasting experiences run Nov 21 to Dec 31
-  ($65\, $35 members)\, with part of the proceeds going to BC Children's Ho
- spital Foundation. The sponsor tree-trimming party (Nov 19\, 5:30–7:30 p
- .m.) is for sponsors only.\n\nSource / more info: https://www.missionhillw
- inery.com/festival-of-trees-sponsorship
+SUMMARY:[Charity Festival · West Kelowna] 10th Annual Festival of Trees op
+ ens (BC Children's Hospital Foundation)
+DESCRIPTION:WHEN: Friday\, November 20\, 2026 (all day / time TBC)\nWHERE: 
+ Mission Hill Family Estate\, 1730 Mission Hill Road\, West Kelowna\, BC\n\
+ nCATEGORY: Charity & Fundraisers\nTYPE: Charity Festival\nJURISDICTION: We
+ st Kelowna\nFEDERAL RIDING: Okanagan Lake West—South Kelowna\nTAGS: Tick
+ eted\, Business Leaders\, Health Care\, Children & Youth\n\nABOUT:\nDecora
+ ted trees from local business sponsors go on display Nov 20\, 2026 to Jan 
+ 3\, 2027 at Mission Hill in Dan Albas's riding\; public tasting experience
+ s run Nov 21 to Dec 31 ($65\, $35 members)\, with part of the proceeds goi
+ ng to BC Children's Hospital Foundation. The sponsor tree-trimming party (
+ Nov 19\, 5:30–7:30 p.m.) is for sponsors only.\n\nDETAILS:\nOrganizer: M
+ ission Hill Family Estate\nWho attends: Local business sponsors\, resident
+ s\, visitors\nCost: Tasting experience $65 per person ($35 members)\nAcces
+ s: Public\; tastings booked in advance\nRegistration / tickets: https://ww
+ w.exploretock.com/missionhillwinery/experience/205366/festival-of-trees\n\
+ nSOURCE: https://www.missionhillwinery.com/festival-of-trees-sponsorship
 LOCATION:Mission Hill Family Estate\, 1730 Mission Hill Road\, West Kelowna
  \, BC
-CATEGORIES:Charity & Fundraisers
+CATEGORIES:Charity & Fundraisers,Charity Festival,West Kelowna,Ticketed,Bus
+ iness Leaders,Health Care,Children & Youth
 URL:https://www.missionhillwinery.com/festival-of-trees-sponsorship
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chamber-bea-gala-2026@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART:20261121T003000Z
 DTEND:20261121T050000Z
-SUMMARY:[Business & Economic Policy] Kelowna Chamber 39th Annual Business E
- xcellence Awards Gala
-DESCRIPTION:Category: Business & Economic Policy\n\nThe Kelowna Chamber of 
- Commerce's biggest night of the year\, recognizing local businesses in its
-  120th anniversary year. Co-presented by Lawson Lundell LLP and BEEM Credi
- t Union. Draws the Kelowna business community along with the mayor\, counc
- illors\, MLAs and often the MP: one of the best networking rooms of the ye
- ar for government relations. Tickets through the Chamber.\n\nSource / more
-  info: https://secure.kelownachamber.org/events/39thAnnual%20Business%20Ex
- cellence%20Awards%20Gala-7811/details
+SUMMARY:[Awards Gala · Kelowna] Kelowna Chamber 39th Annual Business Excel
+ lence Awards Gala
+DESCRIPTION:WHEN: Friday\, November 20\, 2026\, 5:30 p.m. to 10:00 p.m. (Ke
+ lowna time)\nWHERE: Delta Hotels by Marriott Grand Okanagan Resort\, 1310 
+ Water Street\, Kelowna\, BC\n\nCATEGORY: Business & Economic Policy\nTYPE:
+  Awards Gala\nJURISDICTION: Kelowna\nFEDERAL RIDING: Kelowna\nTAGS: Ticket
+ ed\, Business Leaders\, Mayor & Council\, Networking Opportunity\, GR Must
+ -Attend\n\nABOUT:\nThe Kelowna Chamber of Commerce's biggest night of the 
+ year\, recognizing local businesses in its 120th anniversary year. Co-pres
+ ented by Lawson Lundell LLP and BEEM Credit Union. Draws the Kelowna busin
+ ess community along with the mayor\, councillors\, MLAs and often the MP: 
+ one of the best networking rooms of the year for government relations. Tic
+ kets through the Chamber.\n\nWHY IT MATTERS (GOVERNMENT RELATIONS):\nThe C
+ hamber is the region's main business advocacy voice\; this is the year's b
+ est room to meet its board\, members and the politicians they lobby.\n\nDE
+ TAILS:\nOrganizer: Kelowna Chamber of Commerce\; co-presented by Lawson Lu
+ ndell LLP and BEEM Credit Union\nWho attends: Kelowna business community a
+ nd Chamber members\; local elected officials usually attend\nAccess: Ticke
+ ted\nRegistration / tickets: https://secure.kelownachamber.org/events/39th
+ Annual%20Business%20Excellence%20Awards%20Gala-7811/details\n\nSOURCE: htt
+ ps://secure.kelownachamber.org/events/39thAnnual%20Business%20Excellence%2
+ 0Awards%20Gala-7811/details
 LOCATION:Delta Hotels by Marriott Grand Okanagan Resort\, 1310 Water Street
  \, Kelowna\, BC
-CATEGORIES:Business & Economic Policy
+CATEGORIES:Business & Economic Policy,Awards Gala,Kelowna,Ticketed,Business
+  Leaders,Mayor & Council,Networking Opportunity,GR Must-Attend
 URL:https://secure.kelownachamber.org/events/39thAnnual%20Business%20Excell
  ence%20Awards%20Gala-7811/details
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:treeofhope-2026@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART:20261121T200000Z
 DTEND:20261122T010000Z
-SUMMARY:[Charity & Fundraisers] Tree of Hope Festival
-DESCRIPTION:Category: Charity & Fundraisers\n\nCommunity holiday kickoff an
- d charity festival at the Landmark District. Start time is from Eventbrite
- \; the end time is an estimate.\n\nSource / more info: https://www.tourism
- kelowna.com/explore/seasons/fall/november/
+SUMMARY:[Charity Festival · Kelowna] Tree of Hope Festival
+DESCRIPTION:WHEN: Saturday\, November 21\, 2026\, 1:00 p.m. to 6:00 p.m. (K
+ elowna time)\nWHERE: Landmark District\, 1700 Dickson Ave\, Kelowna\, BC\n
+ \nCATEGORY: Charity & Fundraisers\nTYPE: Charity Festival\nJURISDICTION: K
+ elowna\nFEDERAL RIDING: Kelowna\nTAGS: Open to Public\, Business Leaders\,
+  Details TBC\n\nABOUT:\nCommunity holiday kickoff and charity festival at 
+ the Landmark District. Start time is from Eventbrite\; the end time is an 
+ estimate.\n\nDETAILS:\nOrganizer: Landmark District\nAccess: Open to the p
+ ublic\n\nNOT YET CONFIRMED: End time is an estimate.\n\nSOURCE: https://ww
+ w.tourismkelowna.com/explore/seasons/fall/november/
 LOCATION:Landmark District\, 1700 Dickson Ave\, Kelowna\, BC
-CATEGORIES:Charity & Fundraisers
+CATEGORIES:Charity & Fundraisers,Charity Festival,Kelowna,Open to Public,Bu
+ siness Leaders,Details TBC
 URL:https://www.tourismkelowna.com/explore/seasons/fall/november/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wk-aic-2026-11@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:[Committees & Advisory Bodies] West Kelowna Accessibility & Inclusi
- on Committee
-DESCRIPTION:Category: Committees & Advisory Bodies\n\nScheduled meeting of 
- the City of West Kelowna Accessibility and Inclusion Committee. Time not l
- isted\; check the city's calendar.\n\nSource / more info: https://www.west
- kelownacity.ca/en/city-hall/resources/Documents/AIC-Meeting-Schedule---202
- 6.pdf
+SUMMARY:[Advisory Committee · West Kelowna] West Kelowna Accessibility & I
+ nclusion Committee
+DESCRIPTION:WHEN: Wednesday\, November 25\, 2026 (all day / time TBC)\nWHER
+ E: West Kelowna City Hall\, 3731 Old Okanagan Hwy\, West Kelowna\, BC\n\nC
+ ATEGORY: Committees & Advisory Bodies\nTYPE: Advisory Committee\nJURISDICT
+ ION: West Kelowna\nFEDERAL RIDING: Okanagan Lake West—South Kelowna\nTAG
+ S: Open to Public\, Free\, Accessibility\, Details TBC\n\nABOUT:\nSchedule
+ d meeting of the City of West Kelowna Accessibility and Inclusion Committe
+ e. Time not listed\; check the city's calendar.\n\nDETAILS:\nOrganizer: Ci
+ ty of West Kelowna\nCost: Free\nAccess: Open to the public\n\nNOT YET CONF
+ IRMED: Meeting time not listed.\n\nSOURCE: https://www.westkelownacity.ca/
+ en/city-hall/resources/Documents/AIC-Meeting-Schedule---2026.pdf
 LOCATION:West Kelowna City Hall\, 3731 Old Okanagan Hwy\, West Kelowna\, BC
-CATEGORIES:Committees & Advisory Bodies
+CATEGORIES:Committees & Advisory Bodies,Advisory Committee,West Kelowna,Ope
+ n to Public,Free,Accessibility,Details TBC
 URL:https://www.westkelownacity.ca/en/city-hall/resources/Documents/AIC-Mee
  ting-Schedule---2026.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rdco-inaugural-2026@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART:20261126T153000Z
 DTEND:20261126T190000Z
-SUMMARY:[Regional Government] RDCO Inaugural Regular Board Meeting (new boa
- rd\, chair election)
-DESCRIPTION:Category: Regional Government\n\nFirst meeting of the new Regio
- nal District of Central Okanagan board after the election\; the chair and 
- vice-chair are elected. Directors come from Kelowna\, West Kelowna\, Peach
- land\, Lake Country and the electoral areas\, with Westbank First Nation a
- s a non-voting member. Streamed at rdco.com/board.\n\nSource / more info: 
- https://www.rdco.com/media/dpqi2yjt/2026-board-and-committee-schedule.pdf
+SUMMARY:[Board Meeting · Central Okanagan (RDCO)] RDCO Inaugural Regular B
+ oard Meeting (new board\, chair election)
+DESCRIPTION:WHEN: Thursday\, November 26\, 2026\, 8:30 a.m. to 12:00 p.m. (
+ Kelowna time)\nWHERE: RDCO Woodhaven Boardroom\, 1450 KLO Rd\, Kelowna\, B
+ C\n\nCATEGORY: Regional Government\nTYPE: Board Meeting\nJURISDICTION: Cen
+ tral Okanagan (RDCO)\nTAGS: Open to Public\, Free\, Livestreamed\, RDCO Di
+ rectors\, GR Must-Attend\n\nABOUT:\nFirst meeting of the new Regional Dist
+ rict of Central Okanagan board after the election\; the chair and vice-cha
+ ir are elected. Directors come from Kelowna\, West Kelowna\, Peachland\, L
+ ake Country and the electoral areas\, with Westbank First Nation as a non-
+ voting member. Streamed at rdco.com/board.\n\nWHY IT MATTERS (GOVERNMENT R
+ ELATIONS):\nThe chair and vice-chair elected here shape regional decisions
+  on transit\, parks\, water and emergency management for the whole Central
+  Okanagan.\n\nDETAILS:\nOrganizer: Regional District of Central Okanagan\n
+ Who attends: Directors from Kelowna\, West Kelowna\, Peachland\, Lake Coun
+ try and the electoral areas\; Westbank First Nation (non-voting)\; RDCO se
+ nior staff\nCost: Free\nAccess: Open to the public\nLivestream: Streamed a
+ t rdco.com/board\nAgenda: Posted at rdco.com/board\n\nSOURCE: https://www.
+ rdco.com/media/dpqi2yjt/2026-board-and-committee-schedule.pdf
 LOCATION:RDCO Woodhaven Boardroom\, 1450 KLO Rd\, Kelowna\, BC
-CATEGORIES:Regional Government
+CATEGORIES:Regional Government,Board Meeting,Central Okanagan (RDCO),Open t
+ o Public,Free,Livestreamed,RDCO Directors,GR Must-Attend
 URL:https://www.rdco.com/media/dpqi2yjt/2026-board-and-committee-schedule.p
  df
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:kgh-parade-purpose-2026@okanagan-political-cal
-DTSTAMP:20261109T012331Z
+DTSTAMP:20261112T220804Z
 DTSTART:20261206T010000Z
 DTEND:20261206T065500Z
-SUMMARY:[Charity & Fundraisers] Parade with a Purpose 2026 (KGH Foundation)
-DESCRIPTION:Category: Charity & Fundraisers\n\nKGH Foundation fundraiser su
- pporting Kelowna General Hospital\, listed for the evening of Dec 5 downto
- wn. The exact venue and format weren't published on the Foundation's calen
- dar\; check the event page. Hospital foundation events typically draw loca
- l business leaders and elected officials.\n\nSource / more info: https://w
- ww.kghfoundation.com/events-mec/parade-with-a-purpose-2026/
+SUMMARY:[Fundraiser · Kelowna] Parade with a Purpose 2026 (KGH Foundation)
+DESCRIPTION:WHEN: Saturday\, December 5\, 2026\, 6:00 p.m. to 11:55 p.m. (K
+ elowna time)\nWHERE: Downtown Kelowna\, BC (exact venue TBC\; KGH Foundati
+ on office: 2268 Pandosy Street\, Kelowna)\n\nCATEGORY: Charity & Fundraise
+ rs\nTYPE: Fundraiser\nJURISDICTION: Kelowna\nFEDERAL RIDING: Kelowna\nTAGS
+ : Health Care\, Business Leaders\, Details TBC\n\nABOUT:\nKGH Foundation f
+ undraiser supporting Kelowna General Hospital\, listed for the evening of 
+ Dec 5 downtown. The exact venue and format weren't published on the Founda
+ tion's calendar\; check the event page. Hospital foundation events typical
+ ly draw local business leaders and elected officials.\n\nWHY IT MATTERS (G
+ OVERNMENT RELATIONS):\nHospital foundation events draw health-care leaders
+  and donors\; health care is a top provincial issue in the region.\n\nDETA
+ ILS:\nOrganizer: KGH Foundation\nContact: KGH Foundation\, 2268 Pandosy St
+ reet\, Kelowna\n\nNOT YET CONFIRMED: Exact venue\, format and ticketing no
+ t yet published.\n\nSOURCE: https://www.kghfoundation.com/events-mec/parad
+ e-with-a-purpose-2026/
 LOCATION:Downtown Kelowna\, BC (exact venue TBC\; KGH Foundation office: 22
  68 Pandosy Street\, Kelowna)
-CATEGORIES:Charity & Fundraisers
+CATEGORIES:Charity & Fundraisers,Fundraiser,Kelowna,Health Care,Business Le
+ aders,Details TBC
 URL:https://www.kghfoundation.com/events-mec/parade-with-a-purpose-2026/
 TRANSP:TRANSPARENT
 END:VEVENT
