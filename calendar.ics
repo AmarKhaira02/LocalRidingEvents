@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:kel-inaugural-2026@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART:20261103T020000Z
 DTEND:20261103T040000Z
 SUMMARY:[Inaugural Meeting · Kelowna] Kelowna Inaugural Council Meeting & 
@@ -47,7 +47,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wk-inaugural-2026@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART:20261103T203000Z
 DTEND:20261103T230000Z
 SUMMARY:[Inaugural Meeting · West Kelowna] West Kelowna Inaugural Council 
@@ -80,7 +80,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pch-inaugural-2026@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART:20261103T220000Z
 DTEND:20261103T233000Z
 SUMMARY:[Inaugural Meeting · Peachland] Peachland Inaugural Council Meetin
@@ -111,7 +111,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wk-aac-2026-11@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART:20261105T000000Z
 DTEND:20261105T020000Z
 SUMMARY:[Advisory Committee · West Kelowna] West Kelowna Agricultural Advi
@@ -140,7 +140,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ao-offsite-2026@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:[Conference / Summit · Kelowna] Accelerate Okanagan OFFSITE (found
@@ -168,7 +168,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tradediv-reg-deadline@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:[Registration Deadline · Online] DEADLINE: Register for 'Trade Div
@@ -193,7 +193,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:indig-vets-2026@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:[Indigenous Ceremony · Westbank First Nation] Indigenous Veterans 
@@ -225,7 +225,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:kel-regular-2026-11-09@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART:20261109T203000Z
 DTEND:20261110T000000Z
 SUMMARY:[Council Meeting · Kelowna] Kelowna City Council: First Regular Me
@@ -257,7 +257,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tradediv-2026@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:[Policy Briefing · Kelowna] Trade Diversification: Where Do We Sta
@@ -295,7 +295,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rem-wk-2026@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART:20261111T170000Z
 DTEND:20261111T190000Z
 SUMMARY:[Remembrance Ceremony · West Kelowna] Remembrance Day: West Kelown
@@ -325,7 +325,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rem-peachland-2026@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART:20261111T173000Z
 DTEND:20261111T190000Z
 SUMMARY:[Remembrance Ceremony · Peachland] Remembrance Day: Peachland (Leg
@@ -350,7 +350,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rem-summerland-2026@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART:20261111T173000Z
 DTEND:20261111T190000Z
 SUMMARY:[Remembrance Ceremony · Summerland] Remembrance Day: Summerland
@@ -375,7 +375,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rem-kelowna-2026@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART:20261111T174500Z
 DTEND:20261111T190000Z
 SUMMARY:[Remembrance Ceremony · Kelowna] Remembrance Day: Kelowna (Legion 
@@ -404,7 +404,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:innkeepers-2026@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART:20261115T020000Z
 DTEND:20261115T050000Z
 SUMMARY:[Gala · Kelowna] 35th Innkeeper's Gala: 'A Diamond Affair' (Hotel 
@@ -434,7 +434,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:kel-ph-2026-11-17@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART:20261117T230000Z
 DTEND:20261118T020000Z
 SUMMARY:[Public Hearing · Kelowna] Kelowna: First Public Hearing of New Co
@@ -469,7 +469,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wk-apc-2026-11@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART:20261118T210000Z
 DTEND:20261118T223000Z
 SUMMARY:[Advisory Committee · West Kelowna] West Kelowna Advisory Planning
@@ -496,7 +496,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:festival-of-trees-2026@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:[Charity Festival · West Kelowna] 10th Annual Festival of Trees op
@@ -525,7 +525,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chamber-bea-gala-2026@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART:20261121T003000Z
 DTEND:20261121T050000Z
 SUMMARY:[Awards Gala · Kelowna] Kelowna Chamber 39th Annual Business Excel
@@ -560,7 +560,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:treeofhope-2026@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART:20261121T200000Z
 DTEND:20261122T010000Z
 SUMMARY:[Charity Festival · Kelowna] Tree of Hope Festival
@@ -581,7 +581,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wk-aic-2026-11@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[Advisory Committee · West Kelowna] West Kelowna Accessibility & I
@@ -605,7 +605,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rdco-inaugural-2026@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART:20261126T153000Z
 DTEND:20261126T190000Z
 SUMMARY:[Board Meeting · Central Okanagan (RDCO)] RDCO Inaugural Regular B
@@ -635,8 +635,44 @@ URL:https://www.rdco.com/media/dpqi2yjt/2026-board-and-committee-schedule.p
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:kel-budget-2027-deliberations@okanagan-political-cal
+DTSTAMP:20261116T012055Z
+DTSTART:20261203T160000Z
+DTEND:20261204T000000Z
+SUMMARY:[Budget Meeting · Kelowna] Kelowna Council: 2027 Budget Deliberati
+ ons
+DESCRIPTION:WHEN: Thursday\, December 3\, 2026\, 9:00 a.m. to 5:00 p.m. (Ke
+ lowna time)\nWHERE: Council Chamber\, Kelowna City Hall\, 1435 Water Stree
+ t\, Kelowna\, BC\n\nCATEGORY: Municipal Government\nTYPE: Budget Meeting\n
+ JURISDICTION: Kelowna\nFEDERAL RIDING: Kelowna\nTAGS: Open to Public\, Fre
+ e\, Livestreamed\, Mayor & Council\, Senior Public Servants\, Budget & Tax
+ es\, GR Must-Attend\, Details TBC\n\nABOUT:\nThe new council's first budge
+ t: a full-day session where council works through the draft 2027 financial
+  plan line by line and sets the property tax increase. The draft budget is
+  expected to be posted online around Nov. 25. The public can attend in per
+ son or watch the livestream.\n\nWHY IT MATTERS (GOVERNMENT RELATIONS):\nTh
+ e first real test of the new council's spending priorities (public safety\
+ , infrastructure\, housing). Read the draft budget before Dec. 3 and watch
+  which departments and capital projects councillors push back on.\n\nDETAI
+ LS:\nOrganizer: City of Kelowna\nWho attends: Mayor and council\, City Man
+ ager\, finance and department heads\, media\nCost: Free\nAccess: Open to t
+ he public (no public input during deliberations)\nLivestream: kelowna.ca/c
+ ouncil\nAgenda: Draft 2027 budget expected at kelowna.ca around Nov. 25\n\
+ nNOT YET CONFIRMED: Date and 9 a.m. start come from a local newsletter\; v
+ enue (Council Chamber) and end time assumed. Confirm at kelowna.ca/council
+ .\n\nSOURCE: https://pau1.substack.com/p/kelowna-grapevine-newsletter-week
+ -eea
+LOCATION:Council Chamber\, Kelowna City Hall\, 1435 Water Street\, Kelowna\
+ , BC
+CATEGORIES:Municipal Government,Budget Meeting,Kelowna,Open to Public,Free,
+ Livestreamed,Mayor & Council,Senior Public Servants,Budget & Taxes,GR Must
+ -Attend,Details TBC
+URL:https://pau1.substack.com/p/kelowna-grapevine-newsletter-week-eea
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:kgh-parade-purpose-2026@okanagan-political-cal
-DTSTAMP:20261112T220804Z
+DTSTAMP:20261116T012055Z
 DTSTART:20261206T010000Z
 DTEND:20261206T065500Z
 SUMMARY:[Fundraiser · Kelowna] Parade with a Purpose 2026 (KGH Foundation)
