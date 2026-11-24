@@ -23,6 +23,24 @@ CATEGORIES = [
     "Education & Public Lectures",
 ]
 
+# House of Commons-inspired colour per category: (CSS3 colour name for the
+# RFC 7986 COLOR property, matching Outlook preset category colour).
+# Greens = the Commons chamber, Dark Red = the Senate, gold = the Mace and
+# crests, stone and wood = Centre Block.
+CAT_COLORS = {
+    "Federal & Provincial Politics": ("darkgreen", "Dark Green"),
+    "Municipal Government": ("seagreen", "Green"),
+    "Regional Government": ("teal", "Dark Teal"),
+    "Committees & Advisory Bodies": ("olivedrab", "Olive"),
+    "Education & Public Lectures": ("darkolivegreen", "Dark Olive"),
+    "Business & Economic Policy": ("darkgoldenrod", "Dark Yellow"),
+    "Charity & Fundraisers": ("darkred", "Dark Red"),
+    "Indigenous & First Nations": ("sienna", "Dark Orange"),
+    "Community & NGO": ("burlywood", "Dark Peach"),
+    "Ceremonies & Commemorations": ("darkslategray", "Dark Steel"),
+}
+CAL_COLOR = "darkgreen"  # House of Commons green
+
 # Specific event type: shown in the title prefix, e.g. "[Public Hearing · Kelowna]"
 TYPES = [
     "Council Meeting", "Public Hearing", "Inaugural Meeting", "Committee of the Whole",
@@ -179,6 +197,7 @@ def main(src, dst):
          "CALSCALE:GREGORIAN", "METHOD:PUBLISH",
          "X-WR-CALNAME:Okanagan Political & Civic Events",
          "X-WR-CALDESC:Political\\, civic\\, charity and community events in Okanagan Lake West—South Kelowna (Dan Albas) and Kelowna. Updated daily.",
+         "COLOR:" + CAL_COLOR, "X-APPLE-CALENDAR-COLOR:#006400",
          "X-WR-TIMEZONE:" + TZ, "REFRESH-INTERVAL;VALUE=DURATION:PT6H", "X-PUBLISHED-TTL:PT6H"]
     # Times are emitted in UTC (converted with current tzdata, which includes
     # BC's permanent UTC-7 from Nov 2026) so Outlook shows correct local times.
@@ -201,6 +220,7 @@ def main(src, dst):
         L.append("LOCATION:" + esc(e["location"]))
         cats = [e["cat"]] + [x for x in (e.get("type"), e.get("jurisdiction")) if x] + e.get("tags", [])
         L.append("CATEGORIES:" + ",".join(esc(c) for c in dict.fromkeys(cats)))
+        L.append("COLOR:" + CAT_COLORS[e["cat"]][0])
         if e.get("url"):
             L.append("URL:" + e["url"])
         L.append("TRANSP:TRANSPARENT")  # don't block your free/busy

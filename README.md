@@ -41,9 +41,26 @@ In Outlook, each event title reads `[Type · Jurisdiction] Title`, and the descr
 
 The build stops with an error if an event uses a category, type, jurisdiction or tag that isn't in the lists in `build_ics.py`, so the vocabulary stays consistent. Add new values there first.
 
-## Categories
+## Categories and House of Commons colours
 
-Municipal Government · Regional Government · Committees & Advisory Bodies · Federal & Provincial Politics · Business & Economic Policy · Charity & Fundraisers · Community & NGO · Indigenous & First Nations · Ceremonies & Commemorations · Education & Public Lectures
+Each category has a colour based on Parliament: greens for the Commons chamber, dark red for the Senate, gold for the Mace and crests, and stone and wood tones for Centre Block. The feed writes each colour as a `COLOR` property, which Apple Calendar and some other apps read. Outlook ignores that property, so in Outlook you create the categories yourself, once, with the matching preset colours:
+
+| Category | Outlook colour | Feed `COLOR` |
+|---|---|---|
+| Federal & Provincial Politics | Dark Green | darkgreen |
+| Municipal Government | Green | seagreen |
+| Regional Government | Dark Teal | teal |
+| Committees & Advisory Bodies | Olive | olivedrab |
+| Education & Public Lectures | Dark Olive | darkolivegreen |
+| Business & Economic Policy | Dark Yellow | darkgoldenrod |
+| Charity & Fundraisers | Dark Red | darkred |
+| Indigenous & First Nations | Dark Orange | sienna |
+| Community & NGO | Dark Peach | burlywood |
+| Ceremonies & Commemorations | Dark Steel | darkslategray |
+
+**Classic Outlook (Windows):** Home → Categorize → All Categories → New. Give each category exactly the name in the table (same spelling and `&`) and pick its colour. Every event already carries its category, so the colours show up on their own. Category colours on subscribed calendars work reliably in classic Outlook. New Outlook and Outlook on the web may not show categories on subscribed calendars.
+
+The colours are defined in `CAT_COLORS` in `build_ics.py`.
 
 ## Types
 
