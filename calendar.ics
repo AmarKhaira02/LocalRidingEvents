@@ -12,74 +12,8 @@ X-WR-TIMEZONE:America/Vancouver
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:indig-vets-2026@okanagan-political-cal
-DTSTAMP:20261124T193458Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:[Indigenous Ceremony · Westbank First Nation] Indigenous Veterans 
- Day (Westbank First Nation ceremony: date TBC)
-DESCRIPTION:WHEN: Sunday\, November 8\, 2026 (all day / time TBC)\nWHERE: W
- FN Cenotaph\, 1900 Quail Lane\, Westbank\, BC\n\nCATEGORY: Indigenous & Fi
- rst Nations\nTYPE: Indigenous Ceremony\nJURISDICTION: Westbank First Natio
- n\nFEDERAL RIDING: Okanagan Lake West—South Kelowna\nTAGS: Open to Publi
- c\, Free\, WFN Chief & Council\, Veterans\, Reconciliation\, Details TBC\n
- \nABOUT:\nNational Indigenous Veterans Day. Westbank First Nation\, which 
- sits in the heart of the riding\, holds a public ceremony at its cenotaph 
- every year\; in 2025 it was held the Friday before (Nov 7\, 10:30 a.m.–n
- oon\, lunch to follow). Nov 8 2026 is a Sunday\, so check wfn.ca for this 
- year's date. Chief\, council and local elected officials usually attend.\n
- \nWHY IT MATTERS (GOVERNMENT RELATIONS):\nAttending WFN ceremonies builds 
- relationships with WFN leadership\, a self-governing First Nation and a ma
- jor economic player in the riding.\n\nDETAILS:\nOrganizer: Westbank First 
- Nation\nWho attends: WFN Chief and Council\, veterans\, members\, local el
- ected officials\nCost: Free\nAccess: Open to the public\; lunch served aft
- erwards in past years\nContact: WFN Membership Services: membershipservice
- s@wfn.ca\, 250-768-0227\n\nNOT YET CONFIRMED: 2026 date and time not yet p
- ublished by WFN.\n\nSOURCE: https://wfn.ca/blog/Indigenous-Veterans-Day.htm
-LOCATION:WFN Cenotaph\, 1900 Quail Lane\, Westbank\, BC
-CATEGORIES:Indigenous & First Nations,Indigenous Ceremony,Westbank First Na
- tion,Open to Public,Free,WFN Chief & Council,Veterans,Reconciliation,Detai
- ls TBC
-COLOR:sienna
-URL:https://wfn.ca/blog/Indigenous-Veterans-Day.htm
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:kel-regular-2026-11-09@okanagan-political-cal
-DTSTAMP:20261124T193458Z
-DTSTART:20261109T203000Z
-DTEND:20261110T000000Z
-SUMMARY:[Council Meeting · Kelowna] Kelowna City Council: First Regular Me
- eting of New Term
-DESCRIPTION:WHEN: Monday\, November 9\, 2026\, 1:30 p.m. to 5:00 p.m. (Kelo
- wna time)\nWHERE: Council Chamber\, Kelowna City Hall\, 1435 Water Street\
- , Kelowna\, BC\n\nCATEGORY: Municipal Government\nTYPE: Council Meeting\nJ
- URISDICTION: Kelowna\nFEDERAL RIDING: Kelowna\nTAGS: Open to Public\, Free
- \, Livestreamed\, Mayor & Council\n\nABOUT:\nFirst regular meeting of the 
- 2026–2030 council. Kelowna's regular public meetings are Mondays at 1:30
-  p.m.\; council also meets Monday mornings at 9 a.m. for policy and in-cam
- era business. Livestreamed at kelowna.ca/council. Check the agenda for the
-  exact times.\n\nWHY IT MATTERS (GOVERNMENT RELATIONS):\nThe first busines
- s meeting of the new council signals early priorities and which staff repo
- rts come forward first.\n\nDETAILS:\nOrganizer: City of Kelowna\nWho atten
- ds: Mayor and council\, City senior staff\, delegations\nCost: Free\nAcces
- s: Open to the public\nLivestream: Livestreamed and archived at kelowna.ca
- /council\nAgenda: Posted at kelowna.ca/council\n\nNOT YET CONFIRMED: Exact
-  afternoon start time\; check the agenda.\n\nSOURCE: https://www.am1150.ca
- /90986/news/municipal-news/city-of-kelowna/new-kelowna-city-council-to-be-
- sworn-in/
-LOCATION:Council Chamber\, Kelowna City Hall\, 1435 Water Street\, Kelowna\
- , BC
-CATEGORIES:Municipal Government,Council Meeting,Kelowna,Open to Public,Free
- ,Livestreamed,Mayor & Council
-COLOR:seagreen
-URL:https://www.am1150.ca/90986/news/municipal-news/city-of-kelowna/new-kel
- owna-city-council-to-be-sworn-in/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:tradediv-2026@okanagan-political-cal
-DTSTAMP:20261124T193458Z
+DTSTAMP:20261124T221617Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:[Policy Briefing · Kelowna] Trade Diversification: Where Do We Sta
@@ -118,7 +52,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rem-wk-2026@okanagan-political-cal
-DTSTAMP:20261124T193458Z
+DTSTAMP:20261124T221617Z
 DTSTART:20261111T170000Z
 DTEND:20261111T190000Z
 SUMMARY:[Remembrance Ceremony · West Kelowna] Remembrance Day: West Kelown
@@ -149,7 +83,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rem-peachland-2026@okanagan-political-cal
-DTSTAMP:20261124T193458Z
+DTSTAMP:20261124T221617Z
 DTSTART:20261111T173000Z
 DTEND:20261111T190000Z
 SUMMARY:[Remembrance Ceremony · Peachland] Remembrance Day: Peachland (Leg
@@ -175,7 +109,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rem-summerland-2026@okanagan-political-cal
-DTSTAMP:20261124T193458Z
+DTSTAMP:20261124T221617Z
 DTSTART:20261111T173000Z
 DTEND:20261111T190000Z
 SUMMARY:[Remembrance Ceremony · Summerland] Remembrance Day: Summerland
@@ -201,7 +135,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rem-kelowna-2026@okanagan-political-cal
-DTSTAMP:20261124T193458Z
+DTSTAMP:20261124T221617Z
 DTSTART:20261111T174500Z
 DTEND:20261111T190000Z
 SUMMARY:[Remembrance Ceremony · Kelowna] Remembrance Day: Kelowna (Legion 
@@ -231,7 +165,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:innkeepers-2026@okanagan-political-cal
-DTSTAMP:20261124T193458Z
+DTSTAMP:20261124T221617Z
 DTSTART:20261115T020000Z
 DTEND:20261115T050000Z
 SUMMARY:[Gala · Kelowna] 35th Innkeeper's Gala: 'A Diamond Affair' (Hotel 
@@ -262,7 +196,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:kel-ph-2026-11-17@okanagan-political-cal
-DTSTAMP:20261124T193458Z
+DTSTAMP:20261124T221617Z
 DTSTART:20261117T230000Z
 DTEND:20261118T020000Z
 SUMMARY:[Public Hearing · Kelowna] Kelowna: First Public Hearing of New Co
@@ -298,7 +232,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wk-apc-2026-11@okanagan-political-cal
-DTSTAMP:20261124T193458Z
+DTSTAMP:20261124T221617Z
 DTSTART:20261118T210000Z
 DTEND:20261118T223000Z
 SUMMARY:[Advisory Committee · West Kelowna] West Kelowna Advisory Planning
@@ -326,7 +260,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:festival-of-trees-2026@okanagan-political-cal
-DTSTAMP:20261124T193458Z
+DTSTAMP:20261124T221617Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:[Charity Festival · West Kelowna] 10th Annual Festival of Trees op
@@ -356,7 +290,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chamber-bea-gala-2026@okanagan-political-cal
-DTSTAMP:20261124T193458Z
+DTSTAMP:20261124T221617Z
 DTSTART:20261121T003000Z
 DTEND:20261121T050000Z
 SUMMARY:[Awards Gala · Kelowna] Kelowna Chamber 39th Annual Business Excel
@@ -392,7 +326,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:treeofhope-2026@okanagan-political-cal
-DTSTAMP:20261124T193458Z
+DTSTAMP:20261124T221617Z
 DTSTART:20261121T200000Z
 DTEND:20261122T010000Z
 SUMMARY:[Charity Festival · Kelowna] Tree of Hope Festival
@@ -413,33 +347,93 @@ URL:https://www.tourismkelowna.com/explore/seasons/fall/november/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:wk-aic-2026-11@okanagan-political-cal
-DTSTAMP:20261124T193458Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:[Advisory Committee · West Kelowna] West Kelowna Accessibility & I
- nclusion Committee
-DESCRIPTION:WHEN: Wednesday\, November 25\, 2026 (all day / time TBC)\nWHER
- E: West Kelowna City Hall\, 3731 Old Okanagan Hwy\, West Kelowna\, BC\n\nC
- ATEGORY: Committees & Advisory Bodies\nTYPE: Advisory Committee\nJURISDICT
- ION: West Kelowna\nFEDERAL RIDING: Okanagan Lake West—South Kelowna\nTAG
- S: Open to Public\, Free\, Accessibility\, Details TBC\n\nABOUT:\nSchedule
- d meeting of the City of West Kelowna Accessibility and Inclusion Committe
- e. Time not listed\; check the city's calendar.\n\nDETAILS:\nOrganizer: Ci
- ty of West Kelowna\nCost: Free\nAccess: Open to the public\n\nNOT YET CONF
- IRMED: Meeting time not listed.\n\nSOURCE: https://www.westkelownacity.ca/
- en/city-hall/resources/Documents/AIC-Meeting-Schedule---2026.pdf
-LOCATION:West Kelowna City Hall\, 3731 Old Okanagan Hwy\, West Kelowna\, BC
-CATEGORIES:Committees & Advisory Bodies,Advisory Committee,West Kelowna,Ope
- n to Public,Free,Accessibility,Details TBC
-COLOR:olivedrab
-URL:https://www.westkelownacity.ca/en/city-hall/resources/Documents/AIC-Mee
- ting-Schedule---2026.pdf
+UID:pch-council-2026-11-24@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261124T220000Z
+DTEND:20261125T010000Z
+SUMMARY:[Council Meeting · Peachland] Peachland Regular Council Meeting
+DESCRIPTION:WHEN: Tuesday\, November 24\, 2026\, 3:00 p.m. to 6:00 p.m. (Ke
+ lowna time)\nWHERE: Council Chambers\, Peachland Community Centre\, 4450 6
+ th Street\, Peachland\, BC\n\nCATEGORY: Municipal Government\nTYPE: Counci
+ l Meeting\nJURISDICTION: Peachland\nFEDERAL RIDING: Okanagan Lake West—S
+ outh Kelowna\nTAGS: Open to Public\, Free\, Livestreamed\, Mayor & Council
+ \, Details TBC\n\nABOUT:\nRegular meeting of the new Peachland council. No
+ tices of motion from the mayor and Coun. Brophy on dropping parking fees a
+ t seniors' housing and a temporary small-dog off-leash area at Cousins Par
+ k (Dec 1 to Mar 1). Webcast at peachland.ca/webcast.\n\nDETAILS:\nOrganize
+ r: District of Peachland\nCost: Free\nLivestream: peachland.ca/webcast\n\n
+ NOT YET CONFIRMED: Peachland's meetings page says 3 p.m.\; some past regul
+ ar meetings started at 6 p.m. Check the agenda.\n\nSOURCE: https://kelowna
+ capnews.com/2026/11/23/peachland-council-weighs-dropping-senior-housing-pa
+ rking-fees-adding-dog-run/
+LOCATION:Council Chambers\, Peachland Community Centre\, 4450 6th Street\, 
+ Peachland\, BC
+CATEGORIES:Municipal Government,Council Meeting,Peachland,Open to Public,Fr
+ ee,Livestreamed,Mayor & Council,Details TBC
+COLOR:seagreen
+URL:https://kelownacapnews.com/2026/11/23/peachland-council-weighs-dropping
+ -senior-housing-parking-fees-adding-dog-run/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wk-council-2026-11-24@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261125T010000Z
+DTEND:20261125T040000Z
+SUMMARY:[Council Meeting · West Kelowna] West Kelowna Regular Council Meet
+ ing
+DESCRIPTION:WHEN: Tuesday\, November 24\, 2026\, 6:00 p.m. to 9:00 p.m. (Ke
+ lowna time)\nWHERE: Council Chambers\, West Kelowna City Hall\, 3731 Old O
+ kanagan Hwy\, West Kelowna\, BC\n\nCATEGORY: Municipal Government\nTYPE: C
+ ouncil Meeting\nJURISDICTION: West Kelowna\nFEDERAL RIDING: Okanagan Lake 
+ West—South Kelowna\nTAGS: Open to Public\, Free\, Livestreamed\, Mayor &
+  Council\, Land Use & Zoning\, Details TBC\n\nABOUT:\nEvening regular meet
+ ing of West Kelowna council. The agenda includes development permit DP 26-
+ 14 for a multi-unit commercial building at 1835 Ross Rd with parking-setba
+ ck variances. Webcast at westkelownacity.ca/webcasts.\n\nDETAILS:\nOrganiz
+ er: City of West Kelowna\nCost: Free\nLivestream: westkelownacity.ca/webca
+ sts\n\nNOT YET CONFIRMED: End time not stated.\n\nSOURCE: https://media-00
+ 3-ca.cdn.govstack.com/westkelownacity-ca/media/p4hfbsaj/dp-26-14-half-page
+ -10nov2026-1.pdf
+LOCATION:Council Chambers\, West Kelowna City Hall\, 3731 Old Okanagan Hwy\
+ , West Kelowna\, BC
+CATEGORIES:Municipal Government,Council Meeting,West Kelowna,Open to Public
+ ,Free,Livestreamed,Mayor & Council,Land Use & Zoning,Details TBC
+COLOR:seagreen
+URL:https://media-003-ca.cdn.govstack.com/westkelownacity-ca/media/p4hfbsaj
+ /dp-26-14-half-page-10nov2026-1.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ubco-wildfire-insights-2026-11-24@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261125T020000Z
+DTEND:20261125T040000Z
+SUMMARY:[Lecture · Kelowna] UBCO Insights Live: 'As the World Burns' — 2
+ 1st-century wildfire resilience
+DESCRIPTION:WHEN: Tuesday\, November 24\, 2026\, 7:00 p.m. to 9:00 p.m. (Ke
+ lowna time)\nWHERE: Revelry Food + Music Hub\, 1383 Ellis Street\, Kelowna
+ \, BC\n\nCATEGORY: Education & Public Lectures\nTYPE: Lecture\nJURISDICTIO
+ N: Kelowna\nFEDERAL RIDING: Kelowna\nTAGS: Open to Public\, Free\, Registr
+ ation Required\, Environment & Wildfire\n\nABOUT:\nPublic talk by Dr. Crys
+ tal Kolden\, UBCO's Research Chair in Wildfire Resilience\, on what wildfi
+ re resilience should look like\, followed by a reception. Free but seats a
+ re limited\; register on Eventbrite.\n\nWHY IT MATTERS (GOVERNMENT RELATIO
+ NS):\nWildfire policy is a top issue in the riding after the 2026 Bald Ran
+ ge fire.\n\nDETAILS:\nOrganizer: UBC Okanagan\, Earth and Environmental Sc
+ iences\nCost: Free\n\nSOURCE: https://events.ok.ubc.ca/event/as-the-world-
+ burns-what-does-21st-century-wildfire-resilience-look-like/
+LOCATION:Revelry Food + Music Hub\, 1383 Ellis Street\, Kelowna\, BC
+CATEGORIES:Education & Public Lectures,Lecture,Kelowna,Open to Public,Free,
+ Registration Required,Environment & Wildfire
+COLOR:darkolivegreen
+URL:https://events.ok.ubc.ca/event/as-the-world-burns-what-does-21st-centur
+ y-wildfire-resilience-look-like/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chamber-policy-forum-2026@okanagan-political-cal
-DTSTAMP:20261124T193458Z
+DTSTAMP:20261124T221617Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[Panel / Forum · Kelowna] Kelowna Chamber Annual Policy Developmen
@@ -469,8 +463,90 @@ URL:https://secure.kelownachamber.org/events/eventdetail.aspx?EventID=7809
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:wk-aic-2026-11@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261125T170000Z
+DTEND:20261125T190000Z
+SUMMARY:[Advisory Committee · West Kelowna] West Kelowna Accessibility & I
+ nclusion Committee
+DESCRIPTION:WHEN: Wednesday\, November 25\, 2026\, 10:00 a.m. to 12:00 p.m.
+  (Kelowna time)\nWHERE: Council Chambers\, West Kelowna City Hall\, 3731 O
+ ld Okanagan Hwy\, West Kelowna\, BC\n\nCATEGORY: Committees & Advisory Bod
+ ies\nTYPE: Advisory Committee\nJURISDICTION: West Kelowna\nFEDERAL RIDING:
+  Okanagan Lake West—South Kelowna\nTAGS: Open to Public\, Free\, Accessi
+ bility\n\nABOUT:\nMeeting of the City of West Kelowna Accessibility and In
+ clusion Committee\, which advises council on removing barriers in city ser
+ vices\, facilities and plans. Residents can attend. There is no December m
+ eeting.\n\nDETAILS:\nOrganizer: City of West Kelowna\nCost: Free\nAccess: 
+ Open to the public\n\nSOURCE: https://www.westkelownacity.ca/media/eezoen5
+ x/aic-meeting-schedule-2026.pdf
+LOCATION:Council Chambers\, West Kelowna City Hall\, 3731 Old Okanagan Hwy\
+ , West Kelowna\, BC
+CATEGORIES:Committees & Advisory Bodies,Advisory Committee,West Kelowna,Ope
+ n to Public,Free,Accessibility
+COLOR:olivedrab
+URL:https://www.westkelownacity.ca/media/eezoen5x/aic-meeting-schedule-2026
+ .pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ubco-indig-atlas-2026-11-25@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261125T170000Z
+DTEND:20261125T190000Z
+SUMMARY:[Open House · Kelowna] Canadian Geographic Indigenous Peoples Atla
+ s Open House (UBCO)
+DESCRIPTION:WHEN: Wednesday\, November 25\, 2026\, 10:00 a.m. to 12:00 p.m.
+  (Kelowna time)\nWHERE: UNC 200 Ballroom\, University Centre\, UBC Okanaga
+ n\, 3272 University Way\, Kelowna\, BC\n\nCATEGORY: Indigenous & First Nat
+ ions\nTYPE: Open House\nJURISDICTION: Kelowna\nFEDERAL RIDING: Kelowna\nTA
+ GS: Open to Public\, Free\, Reconciliation\, Education\, Details TBC\n\nAB
+ OUT:\nOpen house featuring the Indigenous Peoples Atlas of Canada\, hosted
+  by UBCO Indigenous Programs and Services. Everyone from the community is 
+ welcome.\n\nDETAILS:\nOrganizer: UBC Okanagan Indigenous Programs and Serv
+ ices\nCost: Free\n\nNOT YET CONFIRMED: The event page says 'Monday\, Novem
+ ber 25' but Nov 25\, 2026 is a Wednesday\; the listing view shows Wednesda
+ y.\n\nSOURCE: https://events.ok.ubc.ca/event/canadian-geographic-indigenou
+ s-peoples-atlas-open-house/
+LOCATION:UNC 200 Ballroom\, University Centre\, UBC Okanagan\, 3272 Univers
+ ity Way\, Kelowna\, BC
+CATEGORIES:Indigenous & First Nations,Open House,Kelowna,Open to Public,Fre
+ e,Reconciliation,Education,Details TBC
+COLOR:sienna
+URL:https://events.ok.ubc.ca/event/canadian-geographic-indigenous-peoples-a
+ tlas-open-house/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sd23-finance-2026-11-25@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261125T230000Z
+DTEND:20261126T010000Z
+SUMMARY:[Advisory Committee · SD23 Central Okanagan] SD23 Finance & Planni
+ ng Committee
+DESCRIPTION:WHEN: Wednesday\, November 25\, 2026\, 4:00 p.m. to 6:00 p.m. (
+ Kelowna time)\nWHERE: Main Board Room\, School District 23 Office\, 1040 H
+ ollywood Road South\, Kelowna\, BC\n\nCATEGORY: Committees & Advisory Bodi
+ es\nTYPE: Advisory Committee\nJURISDICTION: SD23 Central Okanagan\nTAGS: O
+ pen to Public\, Free\, School Trustees\, Education\, Budget & Taxes\n\nABO
+ UT:\nCentral Okanagan Public Schools trustees' finance and planning commit
+ tee: budgets\, enrolment\, capital projects and new schools. Public may at
+ tend.\n\nDETAILS:\nOrganizer: Central Okanagan Public Schools (SD23)\nCost
+ : Free\n\nNOT YET CONFIRMED: End time not stated.\n\nSOURCE: https://www.s
+ d23.bc.ca/documents/9fcf1460-4e46-46a4-b409-0daee9dc66d4/2026-27-meeting-s
+ chedule-updated.pdf
+LOCATION:Main Board Room\, School District 23 Office\, 1040 Hollywood Road 
+ South\, Kelowna\, BC
+CATEGORIES:Committees & Advisory Bodies,Advisory Committee,SD23 Central Oka
+ nagan,Open to Public,Free,School Trustees,Education,Budget & Taxes
+COLOR:olivedrab
+URL:https://www.sd23.bc.ca/documents/9fcf1460-4e46-46a4-b409-0daee9dc66d4/2
+ 026-27-meeting-schedule-updated.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:chamber-commerce-connex-2026-11@okanagan-political-cal
-DTSTAMP:20261124T193458Z
+DTSTAMP:20261124T221617Z
 DTSTART:20261126T000000Z
 DTEND:20261126T020000Z
 SUMMARY:[Networking · Kelowna] Kelowna Chamber Commerce ConneX (with COHA)
@@ -500,7 +576,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rdco-inaugural-2026@okanagan-political-cal
-DTSTAMP:20261124T193458Z
+DTSTAMP:20261124T221617Z
 DTSTART:20261126T153000Z
 DTEND:20261126T190000Z
 SUMMARY:[Board Meeting · Central Okanagan (RDCO)] RDCO Inaugural Regular B
@@ -510,10 +586,11 @@ DESCRIPTION:WHEN: Thursday\, November 26\, 2026\, 8:30 a.m. to 12:00 p.m. (
  C\n\nCATEGORY: Regional Government\nTYPE: Board Meeting\nJURISDICTION: Cen
  tral Okanagan (RDCO)\nTAGS: Open to Public\, Free\, Livestreamed\, RDCO Di
  rectors\, GR Must-Attend\n\nABOUT:\nFirst meeting of the new Regional Dist
- rict of Central Okanagan board after the election\; the chair and vice-cha
- ir are elected. Directors come from Kelowna\, West Kelowna\, Peachland\, L
- ake Country and the electoral areas\, with Westbank First Nation as a non-
- voting member. Streamed at rdco.com/board.\n\nWHY IT MATTERS (GOVERNMENT R
+ rict of Central Okanagan board after the October local elections\; electin
+ g the chair and vice-chair is usual at the inaugural meeting. Directors co
+ me from Kelowna\, West Kelowna\, Peachland\, Lake Country and the electora
+ l areas\, with Westbank First Nation as a non-voting member. Public seatin
+ g is limited\; streamed at rdco.com/board.\n\nWHY IT MATTERS (GOVERNMENT R
  ELATIONS):\nThe chair and vice-chair elected here shape regional decisions
   on transit\, parks\, water and emergency management for the whole Central
   Okanagan.\n\nDETAILS:\nOrganizer: Regional District of Central Okanagan\n
@@ -532,7 +609,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:webc-build-buy-belong-2026@okanagan-political-cal
-DTSTAMP:20261124T193458Z
+DTSTAMP:20261124T221617Z
 DTSTART:20261126T180000Z
 DTEND:20261126T210000Z
 SUMMARY:[Panel / Forum · Kelowna] Build\, Buy\, Belong: Where Local Busine
@@ -562,8 +639,249 @@ URL:https://www.tourismkelowna.com/industry/industry-news-centre/post/upcom
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:sum-climate-oh-2026-11-26@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261127T003000Z
+DTEND:20261127T023000Z
+SUMMARY:[Open House · Summerland] Summerland Climate Adaptation Plan Open 
+ House
+DESCRIPTION:WHEN: Thursday\, November 26\, 2026\, 5:30 p.m. to 7:30 p.m. (K
+ elowna time)\nWHERE: George Ryga Arts and Cultural Centre (2nd floor)\, 95
+ 25 Wharton Street\, Summerland\, BC\n\nCATEGORY: Municipal Government\nTYP
+ E: Open House\nJURISDICTION: Summerland\nFEDERAL RIDING: Okanagan Lake Wes
+ t—South Kelowna\nTAGS: Open to Public\, Free\, Delegations / Public Inpu
+ t\, Environment & Wildfire\n\nABOUT:\nDrop-in open house where residents l
+ earn about and comment on Summerland's draft climate adaptation plan: floo
+ ding\, heat\, drought\, wildfire and smoke. Timely after the 2026 Bald Ran
+ ge wildfire.\n\nWHY IT MATTERS (GOVERNMENT RELATIONS):\nWildfire and clima
+ te resilience is a top local issue\; staff and likely council will be pres
+ ent to hear priorities.\n\nDETAILS:\nOrganizer: District of Summerland\nCo
+ st: Free\nAccess: Drop-in\n\nSOURCE: https://www.summerland.ca/your-city-h
+ all/overview/community-updates/2026/11/16/join-us-for-the-climate-adaptati
+ on-plan-community-open-house---november-26
+LOCATION:George Ryga Arts and Cultural Centre (2nd floor)\, 9525 Wharton St
+ reet\, Summerland\, BC
+CATEGORIES:Municipal Government,Open House,Summerland,Open to Public,Free,D
+ elegations / Public Input,Environment & Wildfire
+COLOR:seagreen
+URL:https://www.summerland.ca/your-city-hall/overview/community-updates/202
+ 6/11/16/join-us-for-the-climate-adaptation-plan-community-open-house---nov
+ ember-26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sum-toyokoro-concert-2026@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261127T020000Z
+DTEND:20261127T040000Z
+SUMMARY:[Fundraiser · Summerland] Summerland–Toyokoro 30 Years of Friend
+ ship Concert (wildfire relief)
+DESCRIPTION:WHEN: Thursday\, November 26\, 2026\, 7:00 p.m. to 9:00 p.m. (K
+ elowna time)\nWHERE: Summerland Arena Banquet Hall\, Summerland\, BC (stre
+ et address TBC)\n\nCATEGORY: Charity & Fundraisers\nTYPE: Fundraiser\nJURI
+ SDICTION: Summerland\nFEDERAL RIDING: Okanagan Lake West—South Kelowna\n
+ TAGS: Open to Public\, Environment & Wildfire\n\nABOUT:\nConcert marking 3
+ 0 years of Summerland's sister-city relationship with Toyokoro\, Japan\, d
+ uring a visit by a Toyokoro delegation\, with Yamabiko Taiko and the Reson
+ ance Quartet. Admission by donation\, with proceeds to Summerland wildfire
+  victims.\n\nWHY IT MATTERS (GOVERNMENT RELATIONS):\nSister-city visits us
+ ually involve the mayor and council\; a civic-diplomacy event.\n\nDETAILS:
+ \nOrganizer: District of Summerland\nCost: By donation\n\nNOT YET CONFIRME
+ D: End time not stated.\n\nSOURCE: https://www.summerland.ca/your-city-hal
+ l/overview/community-updates/2026/11/16/summerland---toyokoro--30-years-of
+ -friendship!
+LOCATION:Summerland Arena Banquet Hall\, Summerland\, BC (street address TB
+ C)
+CATEGORIES:Charity & Fundraisers,Fundraiser,Summerland,Open to Public,Envir
+ onment & Wildfire
+COLOR:darkred
+URL:https://www.summerland.ca/your-city-hall/overview/community-updates/202
+ 6/11/16/summerland---toyokoro--30-years-of-friendship!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sum-festival-lights-2026@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261128T000000Z
+DTEND:20261128T040000Z
+SUMMARY:[Community Festival · Summerland] 39th Summerland Festival of Ligh
+ ts
+DESCRIPTION:WHEN: Friday\, November 27\, 2026\, 5:00 p.m. to 9:00 p.m. (Kel
+ owna time)\nWHERE: Main Street and Victoria Road\, downtown Summerland\, B
+ C\n\nCATEGORY: Community & NGO\nTYPE: Community Festival\nJURISDICTION: Su
+ mmerland\nFEDERAL RIDING: Okanagan Lake West—South Kelowna\nTAGS: Open t
+ o Public\, Free\, Details TBC\n\nABOUT:\nSummerland's biggest community ni
+ ght: downtown light-up with music\, family activities\, food trucks and a 
+ fireworks finale.\n\nDETAILS:\nOrganizer: Destination Summerland / Distric
+ t of Summerland\nCost: Free\n\nNOT YET CONFIRMED: Start from 5 p.m. per a 
+ listing\; full schedule on Destination Summerland's Facebook page. End tim
+ e assumed.\n\nSOURCE: https://www.summerland.ca/your-city-hall/overview/co
+ mmunity-updates/2026/11/05/summerland-festival-of-lights---november-27!
+LOCATION:Main Street and Victoria Road\, downtown Summerland\, BC
+CATEGORIES:Community & NGO,Community Festival,Summerland,Open to Public,Fre
+ e,Details TBC
+COLOR:burlywood
+URL:https://www.summerland.ca/your-city-hall/overview/community-updates/202
+ 6/11/05/summerland-festival-of-lights---november-27!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kel-lightup-2026@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:[Community Festival · Kelowna] Downtown Kelowna Light Up & Winter 
+ Street Market
+DESCRIPTION:WHEN: Saturday\, November 28\, 2026 (all day / time TBC)\nWHERE
+ : Stuart Park\, Water Street\, Downtown Kelowna\, BC\n\nCATEGORY: Communit
+ y & NGO\nTYPE: Community Festival\nJURISDICTION: Kelowna\nFEDERAL RIDING: 
+ Kelowna\nTAGS: Open to Public\, Free\, Details TBC\n\nABOUT:\nDowntown Kel
+ owna's annual holiday light-up and night market in Stuart Park\, with vend
+ ors\, performers\, skating and Santa. A big downtown community gathering.\
+ n\nDETAILS:\nOrganizer: Downtown Kelowna Association\nCost: Free\n\nNOT YE
+ T CONFIRMED: Times not published on the listing\; check downtownkelowna.co
+ m.\n\nSOURCE: https://www.tourismkelowna.com/events/annual-events-festival
+ s/winter/light-up-winter-street-market/
+LOCATION:Stuart Park\, Water Street\, Downtown Kelowna\, BC
+CATEGORIES:Community & NGO,Community Festival,Kelowna,Open to Public,Free,D
+ etails TBC
+COLOR:burlywood
+URL:https://www.tourismkelowna.com/events/annual-events-festivals/winter/li
+ ght-up-winter-street-market/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mamas-night-magic-2026@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:[Gala · Kelowna] Mamas for Mamas: A Night of Magic & Giving
+DESCRIPTION:WHEN: Saturday\, November 28\, 2026\, 6:00 p.m. to 8:00 p.m. (K
+ elowna time)\nWHERE: 3330 Neid Road\, Kelowna\, BC\n\nCATEGORY: Charity & 
+ Fundraisers\nTYPE: Gala\nJURISDICTION: Kelowna\nFEDERAL RIDING: Kelowna\nT
+ AGS: Ticketed\, Children & Youth\, Details TBC\n\nABOUT:\nMoroccan-themed 
+ Christmas gala presented by California Closets\, supporting Mamas for Mama
+ s (a Kelowna charity helping struggling mothers and caregivers) and Centra
+ l Okanagan Minor Baseball.\n\nDETAILS:\nOrganizer: Mamas for Mamas\; prese
+ nted by California Closets\nRegistration / tickets: https://www.eventbrite
+ .ca/e/a-night-of-magic-giving-presented-by-california-closets-tickets-2002
+ 970028273\n\nNOT YET CONFIRMED: Page metadata shows 5–7 p.m.\; ticket pr
+ ice not stated.\n\nSOURCE: https://www.eventbrite.ca/e/a-night-of-magic-gi
+ ving-presented-by-california-closets-tickets-2002970028273
+LOCATION:3330 Neid Road\, Kelowna\, BC
+CATEGORIES:Charity & Fundraisers,Gala,Kelowna,Ticketed,Children & Youth,Det
+ ails TBC
+COLOR:darkred
+URL:https://www.eventbrite.ca/e/a-night-of-magic-giving-presented-by-califo
+ rnia-closets-tickets-2002970028273
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rutland-lightup-2026@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261129T200000Z
+DTEND:20261130T003000Z
+SUMMARY:[Community Festival · Kelowna] Rutland Winter Light Up
+DESCRIPTION:WHEN: Sunday\, November 29\, 2026\, 1:00 p.m. to 5:30 p.m. (Kel
+ owna time)\nWHERE: Rutland Centennial Park\, 190 McIntosh Road\, Kelowna\,
+  BC\n\nCATEGORY: Community & NGO\nTYPE: Community Festival\nJURISDICTION: 
+ Kelowna\nFEDERAL RIDING: Kelowna\nTAGS: Open to Public\, Free\n\nABOUT:\nU
+ ptown Rutland Business Association's free holiday event with vendors\, car
+ ols\, hot chocolate and a tree lighting to close the afternoon.\n\nDETAILS
+ :\nOrganizer: Uptown Rutland Business Association\nCost: Free\n\nSOURCE: h
+ ttps://kelownacapnews.com/2026/11/21/santa-photos-booked-up-for-annual-rut
+ land-light-up-in-kelowna/
+LOCATION:Rutland Centennial Park\, 190 McIntosh Road\, Kelowna\, BC
+CATEGORIES:Community & NGO,Community Festival,Kelowna,Open to Public,Free
+COLOR:burlywood
+URL:https://kelownacapnews.com/2026/11/21/santa-photos-booked-up-for-annual
+ -rutland-light-up-in-kelowna/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hope-boxes-2026@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261201T220000Z
+DTEND:20261202T020000Z
+SUMMARY:[Fundraiser · Kelowna] Hope Boxes Charity Holiday Sip & Shop
+DESCRIPTION:WHEN: Tuesday\, December 1\, 2026\, 3:00 p.m. to 7:00 p.m. (Kel
+ owna time)\nWHERE: Sandhill Wines\, 1125 Richter Street\, Kelowna\, BC\n\n
+ CATEGORY: Charity & Fundraisers\nTYPE: Fundraiser\nJURISDICTION: Kelowna\n
+ FEDERAL RIDING: Kelowna\nTAGS: Registration Required\, Details TBC\n\nABOU
+ T:\nHoliday sip-and-shop where guests bring at least five items for 'hope 
+ boxes' going to the Kelowna Women's Shelter\, Dress for Success and Mamas 
+ for Mamas.\n\nDETAILS:\nOrganizer: Chic Creative Community\; presenting sp
+ onsor Stone Sisters Kelowna\nRegistration / tickets: https://www.eventbrit
+ e.ca/e/hope-boxes-charity-event-holiday-sip-shop-tickets-2001994459320\n\n
+ NOT YET CONFIRMED: Page header says 4 p.m. start\; ticket price not stated
+ .\n\nSOURCE: https://www.eventbrite.ca/e/hope-boxes-charity-event-holiday-
+ sip-shop-tickets-2001994459320
+LOCATION:Sandhill Wines\, 1125 Richter Street\, Kelowna\, BC
+CATEGORIES:Charity & Fundraisers,Fundraiser,Kelowna,Registration Required,D
+ etails TBC
+COLOR:darkred
+URL:https://www.eventbrite.ca/e/hope-boxes-charity-event-holiday-sip-shop-t
+ ickets-2001994459320
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wk-aac-2026-12@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:[Advisory Committee · West Kelowna] West Kelowna Agricultural Advi
+ sory Committee
+DESCRIPTION:WHEN: Wednesday\, December 2\, 2026\, 5:00 p.m. to 7:00 p.m. (K
+ elowna time)\nWHERE: Council Chambers\, West Kelowna City Hall\, 3731 Old 
+ Okanagan Hwy\, West Kelowna\, BC\n\nCATEGORY: Committees & Advisory Bodies
+ \nTYPE: Advisory Committee\nJURISDICTION: West Kelowna\nFEDERAL RIDING: Ok
+ anagan Lake West—South Kelowna\nTAGS: Open to Public\, Free\, Agricultur
+ e\, Land Use & Zoning\n\nABOUT:\nWest Kelowna's Agricultural Advisory Comm
+ ittee reviews farm-land applications and agricultural policy before they g
+ o to council. Useful for wine and orchard issues on the Westside.\n\nDETAI
+ LS:\nOrganizer: City of West Kelowna\nCost: Free\n\nSOURCE: https://media-
+ 003-ca.cdn.govstack.com/westkelownacity-ca/media/ebod0u42/aac-meeting-sche
+ dule-2026.pdf
+LOCATION:Council Chambers\, West Kelowna City Hall\, 3731 Old Okanagan Hwy\
+ , West Kelowna\, BC
+CATEGORIES:Committees & Advisory Bodies,Advisory Committee,West Kelowna,Ope
+ n to Public,Free,Agriculture,Land Use & Zoning
+COLOR:olivedrab
+URL:https://media-003-ca.cdn.govstack.com/westkelownacity-ca/media/ebod0u42
+ /aac-meeting-schedule-2026.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sum-utility-oh-2026-12-02@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:[Open House · Summerland] Summerland Virtual Open House: 2027 Util
+ ity Budgets & Rate Increases
+DESCRIPTION:WHEN: Wednesday\, December 2\, 2026\, 5:00 p.m. to 7:00 p.m. (K
+ elowna time)\nWHERE: Online (Zoom\; link on the District of Summerland pag
+ e)\n\nCATEGORY: Municipal Government\nTYPE: Open House\nJURISDICTION: Summ
+ erland\nFEDERAL RIDING: Okanagan Lake West—South Kelowna\nTAGS: Open to 
+ Public\, Free\, Delegations / Public Input\, Budget & Taxes\n\nABOUT:\nSum
+ merland runs its own electric\, water and sewer utilities\; this online se
+ ssion presents the 2027 utility budgets and proposed rate increases\, star
+ ting with a presentation at 5 p.m.\, followed by questions.\n\nDETAILS:\nO
+ rganizer: District of Summerland\nCost: Free\nAccess: Online\n\nSOURCE: ht
+ tps://www.summerland.ca/your-city-hall/overview/community-updates/2026/11/
+ 20/virtual-open-house-on-december-2--utility-budgets---proposed-2027-utili
+ ty-rate-increases
+LOCATION:Online (Zoom\; link on the District of Summerland page)
+CATEGORIES:Municipal Government,Open House,Summerland,Open to Public,Free,D
+ elegations / Public Input,Budget & Taxes
+COLOR:seagreen
+URL:https://www.summerland.ca/your-city-hall/overview/community-updates/202
+ 6/11/20/virtual-open-house-on-december-2--utility-budgets---proposed-2027-
+ utility-rate-increases
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:kel-budget-2027-deliberations@okanagan-political-cal
-DTSTAMP:20261124T193458Z
+DTSTAMP:20261124T221617Z
 DTSTART:20261203T160000Z
 DTEND:20261204T000000Z
 SUMMARY:[Budget Meeting · Kelowna] Kelowna Council: 2027 Budget Deliberati
@@ -599,8 +917,41 @@ URL:https://pau1.substack.com/p/kelowna-grapevine-newsletter-week-eea
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:rdos-wildfire-ph-2026-12-03@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261203T160000Z
+DTEND:20261203T170000Z
+SUMMARY:[Public Hearing · Okanagan-Similkameen (RDOS)] RDOS Public Hearing
+ : Bald Range Wildfire rebuilding bylaws (Area F)
+DESCRIPTION:WHEN: Thursday\, December 3\, 2026\, 9:00 a.m. to 10:00 a.m. (K
+ elowna time)\nWHERE: RDOS Boardroom\, 101 Martin Street\, Penticton\, BC (
+ also online via Webex)\n\nCATEGORY: Regional Government\nTYPE: Public Hear
+ ing\nJURISDICTION: Okanagan-Similkameen (RDOS)\nFEDERAL RIDING: Okanagan L
+ ake West—South Kelowna\nTAGS: Open to Public\, Free\, Delegations / Publ
+ ic Input\, Environment & Wildfire\, Land Use & Zoning\n\nABOUT:\nPublic he
+ aring on Bylaw 3169 (removes the environmentally sensitive development per
+ mit area from Bald Range wildfire parcels in Area F and eases watercourse 
+ permits for post-fire remediation) and Zoning Bylaw 2800.69 (lets owners b
+ uild an accessory building before the house). Written submissions accepted
+  until the hearing closes.\n\nWHY IT MATTERS (GOVERNMENT RELATIONS):\nShow
+ s how regional government is easing rebuilding rules after the wildfire\, 
+ a likely constituent issue for the MP and MLA offices.\n\nDETAILS:\nOrgani
+ zer: Regional District of Okanagan-Similkameen\nCost: Free\nLivestream: We
+ bex: rdos.webex.com\, meeting 2773 476 8996\, password RD@S\; phone 1-833-
+ 311-4101\n\nNOT YET CONFIRMED: End time not stated.\n\nSOURCE: https://www
+ .rdos.bc.ca/newsandevents/event-calendar/detail/4026
+LOCATION:RDOS Boardroom\, 101 Martin Street\, Penticton\, BC (also online v
+ ia Webex)
+CATEGORIES:Regional Government,Public Hearing,Okanagan-Similkameen (RDOS),O
+ pen to Public,Free,Delegations / Public Input,Environment & Wildfire,Land 
+ Use & Zoning
+COLOR:teal
+URL:https://www.rdos.bc.ca/newsandevents/event-calendar/detail/4026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:gwbot-mingle-jingle-2026@okanagan-political-cal
-DTSTAMP:20261124T193458Z
+DTSTAMP:20261124T221617Z
 DTSTART:20261203T190000Z
 DTEND:20261203T203000Z
 SUMMARY:[Networking · West Kelowna] Greater Westside Board of Trade: Mingl
@@ -628,37 +979,256 @@ URL:https://gwboardoftrade.com/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:kgh-parade-purpose-2026@okanagan-political-cal
-DTSTAMP:20261124T193458Z
-DTSTART:20261206T010000Z
-DTEND:20261206T065500Z
-SUMMARY:[Fundraiser · Kelowna] Parade with a Purpose 2026 (KGH Foundation)
-DESCRIPTION:WHEN: Saturday\, December 5\, 2026\, 6:00 p.m. to 11:55 p.m. (K
- elowna time)\nWHERE: Downtown Kelowna\, BC (exact venue TBC\; KGH Foundati
- on office: 2268 Pandosy Street\, Kelowna)\n\nCATEGORY: Charity & Fundraise
- rs\nTYPE: Fundraiser\nJURISDICTION: Kelowna\nFEDERAL RIDING: Kelowna\nTAGS
- : Health Care\, Business Leaders\, Details TBC\n\nABOUT:\nKGH Foundation f
- undraiser supporting Kelowna General Hospital\, listed for the evening of 
- Dec 5 downtown. The exact venue and format weren't published on the Founda
- tion's calendar\; check the event page. Hospital foundation events typical
- ly draw local business leaders and elected officials.\n\nWHY IT MATTERS (G
- OVERNMENT RELATIONS):\nHospital foundation events draw health-care leaders
-  and donors\; health care is a top provincial issue in the region.\n\nDETA
- ILS:\nOrganizer: KGH Foundation\nContact: KGH Foundation\, 2268 Pandosy St
- reet\, Kelowna\n\nNOT YET CONFIRMED: Exact venue\, format and ticketing no
- t yet published.\n\nSOURCE: https://www.kghfoundation.com/events-mec/parad
- e-with-a-purpose-2026/
-LOCATION:Downtown Kelowna\, BC (exact venue TBC\; KGH Foundation office: 22
- 68 Pandosy Street\, Kelowna)
-CATEGORIES:Charity & Fundraisers,Fundraiser,Kelowna,Health Care,Business Le
- aders,Details TBC
+UID:jci-kelowna-dec-2026@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261204T013000Z
+DTEND:20261204T050000Z
+SUMMARY:[Networking · Kelowna] JCI Kelowna Christmas Party & December Meet
+ ing (Coun. Laura Thurnheer\; MP Fuhr's chief of staff)
+DESCRIPTION:WHEN: Thursday\, December 3\, 2026\, 6:30 p.m. to 10:00 p.m. (K
+ elowna time)\nWHERE: 908 Wilson Avenue\, Kelowna\, BC\n\nCATEGORY: Communi
+ ty & NGO\nTYPE: Networking\nJURISDICTION: Kelowna\nFEDERAL RIDING: Kelowna
+ \nTAGS: Ticketed\, Mayor & Council\, MP\, Networking Opportunity\, Details
+  TBC\n\nABOUT:\nJunior Chamber International Kelowna's holiday meeting wit
+ h speakers including Kelowna Councillor Laura Thurnheer and Nicole Rustad\
+ , chief of staff to Kelowna MP Stephen Fuhr\, plus a sock drive for the Ke
+ lowna Gospel Mission. JCI is a young-professionals leadership group.\n\nWH
+ Y IT MATTERS (GOVERNMENT RELATIONS):\nRare chance to hear from and meet a 
+ federal political chief of staff and a city councillor in a small room: id
+ eal for someone building a GR career.\n\nDETAILS:\nOrganizer: JCI Kelowna\
+ nCost: Members free\; senators and alumni $30\nRegistration / tickets: htt
+ ps://www.eventbrite.ca/e/jci-kelowna-christmas-party-december-2026-meeting
+ -tickets-2004903922603\n\nNOT YET CONFIRMED: Page metadata shows 5:30–9 
+ p.m.\; confirm the time.\n\nSOURCE: https://www.eventbrite.ca/e/jci-kelown
+ a-christmas-party-december-2026-meeting-tickets-2004903922603
+LOCATION:908 Wilson Avenue\, Kelowna\, BC
+CATEGORIES:Community & NGO,Networking,Kelowna,Ticketed,Mayor & Council,MP,N
+ etworking Opportunity,Details TBC
+COLOR:burlywood
+URL:https://www.eventbrite.ca/e/jci-kelowna-christmas-party-december-2026-m
+ eeting-tickets-2004903922603
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rdos-wildfire-focus-2026-12@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:[Public Consultation · Okanagan-Similkameen (RDOS)] RDOS focus gro
+ ups on the 2026 Summerland wildfire evacuations (Dec 4–5)
+DESCRIPTION:WHEN: Friday\, December 4\, 2026 (all day / time TBC)\nWHERE: S
+ ummerland\, BC (venue to be announced)\n\nCATEGORY: Regional Government\nT
+ YPE: Public Consultation\nJURISDICTION: Okanagan-Similkameen (RDOS)\nFEDER
+ AL RIDING: Okanagan Lake West—South Kelowna\nTAGS: Registration Required
+ \, Environment & Wildfire\, Public Safety\, Details TBC\n\nABOUT:\nThe RDO
+ S and consultant MNP are holding focus groups in Summerland on Dec 4 and 5
+  to review the 2026 wildfire evacuations and improve future emergency plan
+ ning. Space is limited\; residents sign up through an expression-of-intere
+ st form.\n\nDETAILS:\nOrganizer: Regional District of Okanagan-Similkameen
+ \, with MNP\nAccess: Expression of interest required\n\nNOT YET CONFIRMED:
+  Venue and session times not yet announced (sessions run about 2 to 2.5 ho
+ urs).\n\nSOURCE: https://www.summerland.ca/your-city-hall/overview/communi
+ ty-updates/2026/11/05/rdos-seeks-community-feedback-on-the-2026-wildfire-e
+ vacuations-to-improve-future-planning
+LOCATION:Summerland\, BC (venue to be announced)
+CATEGORIES:Regional Government,Public Consultation,Okanagan-Similkameen (RD
+ OS),Registration Required,Environment & Wildfire,Public Safety,Details TBC
+COLOR:teal
+URL:https://www.summerland.ca/your-city-hall/overview/community-updates/202
+ 6/11/05/rdos-seeks-community-feedback-on-the-2026-wildfire-evacuations-to-
+ improve-future-planning
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pch-lightup-2026@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:[Community Festival · Peachland] Peachland Winter Light-Up
+DESCRIPTION:WHEN: Friday\, December 4\, 2026 (all day / time TBC)\nWHERE: H
+ eritage Park\, Peachland\, BC\n\nCATEGORY: Community & NGO\nTYPE: Communit
+ y Festival\nJURISDICTION: Peachland\nFEDERAL RIDING: Okanagan Lake West—
+ South Kelowna\nTAGS: Open to Public\, Free\, Details TBC\n\nABOUT:\nDistri
+ ct of Peachland's holiday light-up with bonfire\, cocoa\, Santa\, a tree-l
+ ighting countdown and fireworks. In past years the mayor gave a welcome be
+ fore the countdown.\n\nDETAILS:\nOrganizer: District of Peachland\nCost: F
+ ree\n\nNOT YET CONFIRMED: 2026 times not published (2025: glow parade 6 p.
+ m.\, mayor's welcome 6:15\, fireworks 7:30).\n\nSOURCE: https://okanaganfa
+ milyfun.com/okanagan-christmas-events-light-ups-parades-and-santa-visits/
+LOCATION:Heritage Park\, Peachland\, BC
+CATEGORIES:Community & NGO,Community Festival,Peachland,Open to Public,Free
+ ,Details TBC
+COLOR:burlywood
+URL:https://okanaganfamilyfun.com/okanagan-christmas-events-light-ups-parad
+ es-and-santa-visits/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:making-spirits-bright-2026@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261204T183000Z
+DTEND:20261204T210000Z
+SUMMARY:[Networking · Kelowna] Making Spirits Bright: Kelowna Women in Bus
+ iness Giving Back
+DESCRIPTION:WHEN: Friday\, December 4\, 2026\, 11:30 a.m. to 2:00 p.m. (Kel
+ owna time)\nWHERE: Moxies\, 1730 Cooper Road\, Kelowna\, BC\n\nCATEGORY: C
+ harity & Fundraisers\nTYPE: Networking\nJURISDICTION: Kelowna\nFEDERAL RID
+ ING: Kelowna\nTAGS: Free\, Registration Required\, Business Leaders\, Deta
+ ils TBC\n\nABOUT:\nFree women-in-business holiday lunch (RSVP) collecting 
+ gifts and donations for the Kelowna Women's Shelter.\n\nDETAILS:\nOrganize
+ r: Living In Balance Seminars\nCost: Free with RSVP\nRegistration / ticket
+ s: https://www.eventbrite.ca/e/making-spirits-bright-kelowna-women-in-busi
+ ness-giving-back-tickets-2004434599846\n\nNOT YET CONFIRMED: Page metadata
+  shows a 10:30 a.m. start.\n\nSOURCE: https://www.eventbrite.ca/e/making-s
+ pirits-bright-kelowna-women-in-business-giving-back-tickets-2004434599846
+LOCATION:Moxies\, 1730 Cooper Road\, Kelowna\, BC
+CATEGORIES:Charity & Fundraisers,Networking,Kelowna,Free,Registration Requi
+ red,Business Leaders,Details TBC
 COLOR:darkred
-URL:https://www.kghfoundation.com/events-mec/parade-with-a-purpose-2026/
+URL:https://www.eventbrite.ca/e/making-spirits-bright-kelowna-women-in-busi
+ ness-giving-back-tickets-2004434599846
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wk-lightup-2026@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261205T010000Z
+DTEND:20261205T040000Z
+SUMMARY:[Ceremony · West Kelowna] West Kelowna Light Up on Brown Road (May
+ or & Council countdown)
+DESCRIPTION:WHEN: Friday\, December 4\, 2026\, 6:00 p.m. to 9:00 p.m. (Kelo
+ wna time)\nWHERE: Brown Road between Main Street and Gossett Road\, West K
+ elowna\, BC\n\nCATEGORY: Ceremonies & Commemorations\nTYPE: Ceremony\nJURI
+ SDICTION: West Kelowna\nFEDERAL RIDING: Okanagan Lake West—South Kelowna
+ \nTAGS: Open to Public\, Free\, Mayor & Council\, Networking Opportunity\n
+ \nABOUT:\nWest Kelowna's holiday light-up: Mayor and Council lead the 6:30
+  p.m. tree-lighting countdown on the FortisBC stage\, with a Brown Road st
+ reet party until 8:30\, a craft market at the Westbank Lions Community Cen
+ tre (2466 Main St) and fireworks from Memorial Park at 8:30 p.m.\n\nWHY IT
+  MATTERS (GOVERNMENT RELATIONS):\nThe new mayor and council's first big pu
+ blic community event\; easy to say hello.\n\nDETAILS:\nOrganizer: City of 
+ West Kelowna\nCost: Free\n\nSOURCE: https://www.westkelownacity.ca/parks-r
+ ecreation-facilities/city-events/light-up/
+LOCATION:Brown Road between Main Street and Gossett Road\, West Kelowna\, B
+ C
+CATEGORIES:Ceremonies & Commemorations,Ceremony,West Kelowna,Open to Public
+ ,Free,Mayor & Council,Networking Opportunity
+COLOR:darkslategray
+URL:https://www.westkelownacity.ca/parks-recreation-facilities/city-events/
+ light-up/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bcgreens-agm-2026@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261205T170000Z
+DTEND:20261205T210000Z
+SUMMARY:[AGM · Online] BC Green Party 2026 AGM & Convention (online)
+DESCRIPTION:WHEN: Saturday\, December 5\, 2026\, 10:00 a.m. to 2:00 p.m. (K
+ elowna time)\nWHERE: Online\n\nCATEGORY: Federal & Provincial Politics\nTY
+ PE: AGM\nJURISDICTION: Online\nTAGS: Members / Invite Only\, Party Members
+ \, Registration Required\n\nABOUT:\nThe BC Greens' annual general meeting 
+ and convention\, held online after the October 24 provincial election in w
+ hich the party won two seats. Members debate party business and direction.
+ \n\nWHY IT MATTERS (GOVERNMENT RELATIONS):\nPost-election party convention
+ s show where each party is heading\; worth following for all parties.\n\nD
+ ETAILS:\nOrganizer: BC Green Party\nAccess: Party members\n\nSOURCE: https
+ ://www.bcgreens.ca/events
+LOCATION:Online
+CATEGORIES:Federal & Provincial Politics,AGM,Online,Members / Invite Only,P
+ arty Members,Registration Required
+COLOR:darkgreen
+URL:https://www.bcgreens.ca/events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kgh-parade-purpose-2026@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+SUMMARY:[Fundraiser · Kelowna] Parade with a Purpose 2026 (KGH Foundation)
+DESCRIPTION:WHEN: Saturday\, December 5\, 2026\, 6:00 p.m. to 8:00 p.m. (Ke
+ lowna time)\nWHERE: Downtown Kelowna: starts at City Park\, along Abbott S
+ t toward the Sails\, then Bernard Ave and Bertram St\, Kelowna\, BC\n\nCAT
+ EGORY: Charity & Fundraisers\nTYPE: Fundraiser\nJURISDICTION: Kelowna\nFED
+ ERAL RIDING: Kelowna\nTAGS: Open to Public\, Free\, Health Care\, Children
+  & Youth\, Business Leaders\, Networking Opportunity\n\nABOUT:\nKelowna's 
+ holiday parade\, now in its 7th year\, run by the KGH Foundation and prese
+ nted by the Torgerson Foundation. More than 35 floats from local businesse
+ s and groups\; free to watch\, with donations\, 50/50 and an auction. Proc
+ eeds go to Foundry Westside\, a youth and family mental health centre in W
+ estbank\, with a local donor matching up to $100\,000.\n\nWHY IT MATTERS (
+ GOVERNMENT RELATIONS):\nYouth mental health in the riding is the cause\; e
+ lected officials and business leaders often take part in or sponsor floats
+ .\n\nDETAILS:\nOrganizer: KGH Foundation\nCost: Free to watch\; donations 
+ welcome\nContact: KGH Foundation\, 2268 Pandosy Street\, Kelowna\n\nNOT YE
+ T CONFIRMED: End time not published (8 p.m. assumed).\n\nSOURCE: https://w
+ ww.kghfoundation.com/2026-parade-with-a-purpose/
+LOCATION:Downtown Kelowna: starts at City Park\, along Abbott St toward the
+  Sails\, then Bernard Ave and Bertram St\, Kelowna\, BC
+CATEGORIES:Charity & Fundraisers,Fundraiser,Kelowna,Open to Public,Free,Hea
+ lth Care,Children & Youth,Business Leaders,Networking Opportunity
+COLOR:darkred
+URL:https://www.kghfoundation.com/2026-parade-with-a-purpose/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ubco-14-not-forgotten-2026@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261207T190000Z
+DTEND:20261207T203000Z
+SUMMARY:[Ceremony · Kelowna] 14 Not Forgotten: National Day of Remembrance
+  and Action on Violence Against Women (UBCO)
+DESCRIPTION:WHEN: Monday\, December 7\, 2026\, 12:00 p.m. to 1:30 p.m. (Kel
+ owna time)\nWHERE: EME Building lower atrium and amphitheatre\, UBC Okanag
+ an\, 1137 Alumni Avenue\, Kelowna\, BC\n\nCATEGORY: Ceremonies & Commemora
+ tions\nTYPE: Ceremony\nJURISDICTION: Kelowna\nFEDERAL RIDING: Kelowna\nTAG
+ S: Open to Public\, Free\, Public Safety\n\nABOUT:\nUBCO School of Enginee
+ ring's annual ceremony remembering the 14 women killed at École Polytechn
+ ique in 1989\, marking the Dec 6 national day. The memorial fire bowl is l
+ it\, with an all-day candlelit vigil and display. Open to the public\; no 
+ registration.\n\nDETAILS:\nOrganizer: UBC Okanagan School of Engineering\n
+ Cost: Free\n\nSOURCE: https://events.ok.ubc.ca/event/14-not-forgotten-memo
+ rial-ceremony-and-vigil/
+LOCATION:EME Building lower atrium and amphitheatre\, UBC Okanagan\, 1137 A
+ lumni Avenue\, Kelowna\, BC
+CATEGORIES:Ceremonies & Commemorations,Ceremony,Kelowna,Open to Public,Free
+ ,Public Safety
+COLOR:darkslategray
+URL:https://events.ok.ubc.ca/event/14-not-forgotten-memorial-ceremony-and-v
+ igil/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:refill-your-cup-2026@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261208T000000Z
+DTEND:20261208T020000Z
+SUMMARY:[Networking · Kelowna] Refill Your Cup: Holiday Gathering for Soci
+ al Change Makers
+DESCRIPTION:WHEN: Monday\, December 7\, 2026\, 5:00 p.m. to 7:00 p.m. (Kelo
+ wna time)\nWHERE: The Office Brewery\, #301-890 Clement Avenue\, Kelowna\,
+  BC\n\nCATEGORY: Community & NGO\nTYPE: Networking\nJURISDICTION: Kelowna\
+ nFEDERAL RIDING: Kelowna\nTAGS: Free\, Registration Required\, Networking 
+ Opportunity\n\nABOUT:\nFree holiday mixer for Kelowna nonprofit staff\, fu
+ nders and social entrepreneurs (food and drinks extra). A good room to mee
+ t the NGO sector that works with all levels of government.\n\nDETAILS:\nOr
+ ganizer: Dharmarketing Strategic Social Impact\nCost: Free (RSVP)\nRegistr
+ ation / tickets: https://www.eventbrite.ca/e/refill-your-cup-2026-holiday-
+ gathering-for-social-change-makers-tickets-2003801457099\n\nSOURCE: https:
+ //www.eventbrite.ca/e/refill-your-cup-2026-holiday-gathering-for-social-ch
+ ange-makers-tickets-2003801457099
+LOCATION:The Office Brewery\, #301-890 Clement Avenue\, Kelowna\, BC
+CATEGORIES:Community & NGO,Networking,Kelowna,Free,Registration Required,Ne
+ tworking Opportunity
+COLOR:burlywood
+URL:https://www.eventbrite.ca/e/refill-your-cup-2026-holiday-gathering-for-
+ social-change-makers-tickets-2003801457099
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chamber-speaker-bryan-yu-2026@okanagan-political-cal
-DTSTAMP:20261124T193458Z
+DTSTAMP:20261124T221617Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:[Speaker Series · Kelowna] Kelowna Chamber Speakers Series: Bryan 
@@ -690,8 +1260,91 @@ URL:https://www.tourismkelowna.com/industry/industry-news-centre/post/upcom
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:wk-council-2026-12-08@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261208T203000Z
+DTEND:20261209T000000Z
+SUMMARY:[Council Meeting · West Kelowna] West Kelowna Regular Council Meet
+ ing
+DESCRIPTION:WHEN: Tuesday\, December 8\, 2026\, 1:30 p.m. to 5:00 p.m. (Kel
+ owna time)\nWHERE: Council Chambers\, West Kelowna City Hall\, 3731 Old Ok
+ anagan Hwy\, West Kelowna\, BC\n\nCATEGORY: Municipal Government\nTYPE: Co
+ uncil Meeting\nJURISDICTION: West Kelowna\nFEDERAL RIDING: Okanagan Lake W
+ est—South Kelowna\nTAGS: Open to Public\, Free\, Livestreamed\, Mayor & 
+ Council\, Tourism\, Agriculture\, Details TBC\n\nABOUT:\nAfternoon regular
+  council meeting. The agenda includes liquor licence changes for two winer
+ ies: Black Swift Vineyards (2345 Boucherie Rd: new lounge for about 200 an
+ d five special-event areas) and Gallery Winery (2233 Witt Rd). Webcast at 
+ westkelownacity.ca/webcasts.\n\nDETAILS:\nOrganizer: City of West Kelowna\
+ nCost: Free\nLivestream: westkelownacity.ca/webcasts\n\nNOT YET CONFIRMED:
+  End time not stated.\n\nSOURCE: https://media-003-ca.cdn.govstack.com/wes
+ tkelownacity-ca/media/y4jojwuq/ll-26-04-black-swift-vineyards-1033-x-55-1.
+ pdf
+LOCATION:Council Chambers\, West Kelowna City Hall\, 3731 Old Okanagan Hwy\
+ , West Kelowna\, BC
+CATEGORIES:Municipal Government,Council Meeting,West Kelowna,Open to Public
+ ,Free,Livestreamed,Mayor & Council,Tourism,Agriculture,Details TBC
+COLOR:seagreen
+URL:https://media-003-ca.cdn.govstack.com/westkelownacity-ca/media/y4jojwuq
+ /ll-26-04-black-swift-vineyards-1033-x-55-1.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sd23-board-2026-12-09@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261210T010000Z
+DTEND:20261210T030000Z
+SUMMARY:[Board Meeting · SD23 Central Okanagan] SD23 Regular Public Board 
+ Meeting
+DESCRIPTION:WHEN: Wednesday\, December 9\, 2026\, 6:00 p.m. to 8:00 p.m. (K
+ elowna time)\nWHERE: Main Board Room\, School District 23 Office\, 1040 Ho
+ llywood Road South\, Kelowna\, BC\n\nCATEGORY: Committees & Advisory Bodie
+ s\nTYPE: Board Meeting\nJURISDICTION: SD23 Central Okanagan\nTAGS: Open to
+  Public\, Free\, Livestreamed\, School Trustees\, Education\n\nABOUT:\nPub
+ lic meeting of the Central Okanagan Board of Education. The business porti
+ on is streamed on Zoom.\n\nDETAILS:\nOrganizer: Central Okanagan Public Sc
+ hools (SD23)\nCost: Free\nLivestream: https://sd23.zoom.us/j/8341176781\n\
+ nNOT YET CONFIRMED: End time not stated.\n\nSOURCE: https://www.sd23.bc.ca
+ /documents/9fcf1460-4e46-46a4-b409-0daee9dc66d4/2026-27-meeting-schedule-u
+ pdated.pdf
+LOCATION:Main Board Room\, School District 23 Office\, 1040 Hollywood Road 
+ South\, Kelowna\, BC
+CATEGORIES:Committees & Advisory Bodies,Board Meeting,SD23 Central Okanagan
+ ,Open to Public,Free,Livestreamed,School Trustees,Education
+COLOR:olivedrab
+URL:https://www.sd23.bc.ca/documents/9fcf1460-4e46-46a4-b409-0daee9dc66d4/2
+ 026-27-meeting-schedule-updated.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rdco-cow-2026-12-10@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261210T153000Z
+DTEND:20261210T190000Z
+SUMMARY:[Committee of the Whole · Central Okanagan (RDCO)] RDCO Committee 
+ of the Whole
+DESCRIPTION:WHEN: Thursday\, December 10\, 2026\, 8:30 a.m. to 12:00 p.m. (
+ Kelowna time)\nWHERE: RDCO Woodhaven Boardroom\, 1450 KLO Rd\, Kelowna\, B
+ C\n\nCATEGORY: Regional Government\nTYPE: Committee of the Whole\nJURISDIC
+ TION: Central Okanagan (RDCO)\nTAGS: Open to Public\, Free\, Livestreamed\
+ , RDCO Directors\, Details TBC\n\nABOUT:\nThe new RDCO board's first Commi
+ ttee of the Whole\, where directors discuss policy and budget items in mor
+ e depth before board decisions. Agendas are posted 72 hours ahead\; public
+  seating is limited\; streamed at rdco.com/board.\n\nDETAILS:\nOrganizer: 
+ Regional District of Central Okanagan\nCost: Free\nLivestream: rdco.com/bo
+ ard\n\nNOT YET CONFIRMED: End time not stated.\n\nSOURCE: https://www.rdco
+ .com/media/dpqi2yjt/2026-board-and-committee-schedule.pdf
+LOCATION:RDCO Woodhaven Boardroom\, 1450 KLO Rd\, Kelowna\, BC
+CATEGORIES:Regional Government,Committee of the Whole,Central Okanagan (RDC
+ O),Open to Public,Free,Livestreamed,RDCO Directors,Details TBC
+COLOR:teal
+URL:https://www.rdco.com/media/dpqi2yjt/2026-board-and-committee-schedule.p
+ df
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:gwbot-bah-2026-12@okanagan-political-cal
-DTSTAMP:20261124T193458Z
+DTSTAMP:20261124T221617Z
 DTSTART:20261211T000000Z
 DTEND:20261211T020000Z
 SUMMARY:[Networking · West Kelowna] Greater Westside Board of Trade: Decem
@@ -712,6 +1365,194 @@ CATEGORIES:Business & Economic Policy,Networking,West Kelowna,Business Lead
  ers,Networking Opportunity,Details TBC
 COLOR:darkgoldenrod
 URL:https://gwboardoftrade.com/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pch-council-2026-12-15@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261215T220000Z
+DTEND:20261216T010000Z
+SUMMARY:[Council Meeting · Peachland] Peachland Regular Council Meeting
+DESCRIPTION:WHEN: Tuesday\, December 15\, 2026\, 3:00 p.m. to 6:00 p.m. (Ke
+ lowna time)\nWHERE: Council Chambers\, Peachland Community Centre\, 4450 6
+ th Street\, Peachland\, BC\n\nCATEGORY: Municipal Government\nTYPE: Counci
+ l Meeting\nJURISDICTION: Peachland\nFEDERAL RIDING: Okanagan Lake West—S
+ outh Kelowna\nTAGS: Open to Public\, Free\, Livestreamed\, Mayor & Council
+ \, Details TBC\n\nABOUT:\nRegular council meeting where the seniors' housi
+ ng parking and Cousins Park dog-area motions are expected to come back for
+  a vote on staff feasibility reports. Webcast at peachland.ca/webcast.\n\n
+ DETAILS:\nOrganizer: District of Peachland\nCost: Free\nLivestream: peachl
+ and.ca/webcast\n\nNOT YET CONFIRMED: Date from news coverage\; start time 
+ (3 p.m.) from the District meetings page\, not yet confirmed by an agenda.
+ \n\nSOURCE: https://kelownacapnews.com/2026/11/23/peachland-council-weighs
+ -dropping-senior-housing-parking-fees-adding-dog-run/
+LOCATION:Council Chambers\, Peachland Community Centre\, 4450 6th Street\, 
+ Peachland\, BC
+CATEGORIES:Municipal Government,Council Meeting,Peachland,Open to Public,Fr
+ ee,Livestreamed,Mayor & Council,Details TBC
+COLOR:seagreen
+URL:https://kelownacapnews.com/2026/11/23/peachland-council-weighs-dropping
+ -senior-housing-parking-fees-adding-dog-run/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wk-apc-2026-12@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261216T210000Z
+DTEND:20261216T223000Z
+SUMMARY:[Advisory Committee · West Kelowna] West Kelowna Advisory Planning
+  Commission
+DESCRIPTION:WHEN: Wednesday\, December 16\, 2026\, 2:00 p.m. to 3:30 p.m. (
+ Kelowna time)\nWHERE: Council Chambers\, West Kelowna City Hall\, 3731 Old
+  Okanagan Hwy\, West Kelowna\, BC\n\nCATEGORY: Committees & Advisory Bodie
+ s\nTYPE: Advisory Committee\nJURISDICTION: West Kelowna\nFEDERAL RIDING: O
+ kanagan Lake West—South Kelowna\nTAGS: Open to Public\, Free\, Land Use 
+ & Zoning\, Housing & Development\n\nABOUT:\nCitizen commission that review
+ s rezonings and development applications before council decides. A good ea
+ rly look at upcoming Westside housing projects.\n\nDETAILS:\nOrganizer: Ci
+ ty of West Kelowna\nCost: Free\n\nSOURCE: https://www.westkelownacity.ca/m
+ edia/0iwepybv/apc-meeting-schedule-2026.pdf
+LOCATION:Council Chambers\, West Kelowna City Hall\, 3731 Old Okanagan Hwy\
+ , West Kelowna\, BC
+CATEGORIES:Committees & Advisory Bodies,Advisory Committee,West Kelowna,Ope
+ n to Public,Free,Land Use & Zoning,Housing & Development
+COLOR:olivedrab
+URL:https://www.westkelownacity.ca/media/0iwepybv/apc-meeting-schedule-2026
+ .pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sd67-board-2026-12-16@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261217T013000Z
+DTEND:20261217T033000Z
+SUMMARY:[Board Meeting · SD67 Okanagan Skaha] SD67 Okanagan Skaha Regular 
+ Board Meeting (covers Summerland schools)
+DESCRIPTION:WHEN: Wednesday\, December 16\, 2026\, 6:30 p.m. to 8:30 p.m. (
+ Kelowna time)\nWHERE: siyáʔ House\, Penticton\, BC (street address TBC)\
+ n\nCATEGORY: Committees & Advisory Bodies\nTYPE: Board Meeting\nJURISDICTI
+ ON: SD67 Okanagan Skaha\nFEDERAL RIDING: Okanagan Lake West—South Kelown
+ a\nTAGS: Open to Public\, Free\, School Trustees\, Education\, Details TBC
+ \n\nABOUT:\nPublic board meeting of School District 67\, which runs Summer
+ land's schools. The agenda will be posted on the district site beforehand.
+ \n\nDETAILS:\nOrganizer: School District 67 Okanagan Skaha\nCost: Free\n\n
+ NOT YET CONFIRMED: Street address of siyáʔ House and end time not stated
+ .\n\nSOURCE: https://www.sd67.bc.ca/apps/pages/boardmeetings
+LOCATION:siyáʔ House\, Penticton\, BC (street address TBC)
+CATEGORIES:Committees & Advisory Bodies,Board Meeting,SD67 Okanagan Skaha,O
+ pen to Public,Free,School Trustees,Education,Details TBC
+COLOR:olivedrab
+URL:https://www.sd67.bc.ca/apps/pages/boardmeetings
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rdco-board-2026-12-17@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261217T153000Z
+DTEND:20261217T190000Z
+SUMMARY:[Board Meeting · Central Okanagan (RDCO)] RDCO Regular Board Meeti
+ ng
+DESCRIPTION:WHEN: Thursday\, December 17\, 2026\, 8:30 a.m. to 12:00 p.m. (
+ Kelowna time)\nWHERE: RDCO Woodhaven Boardroom\, 1450 KLO Rd\, Kelowna\, B
+ C\n\nCATEGORY: Regional Government\nTYPE: Board Meeting\nJURISDICTION: Cen
+ tral Okanagan (RDCO)\nTAGS: Open to Public\, Free\, Livestreamed\, RDCO Di
+ rectors\, Details TBC\n\nABOUT:\nRegular meeting of the Regional District 
+ of Central Okanagan board: regional parks\, transit\, water\, emergency ma
+ nagement and electoral-area land use. Agendas are posted 72 hours ahead\; 
+ public seating is limited\; streamed at rdco.com/board.\n\nDETAILS:\nOrgan
+ izer: Regional District of Central Okanagan\nCost: Free\nLivestream: rdco.
+ com/board\n\nNOT YET CONFIRMED: End time not stated.\n\nSOURCE: https://ww
+ w.rdco.com/media/dpqi2yjt/2026-board-and-committee-schedule.pdf
+LOCATION:RDCO Woodhaven Boardroom\, 1450 KLO Rd\, Kelowna\, BC
+CATEGORIES:Regional Government,Board Meeting,Central Okanagan (RDCO),Open t
+ o Public,Free,Livestreamed,RDCO Directors,Details TBC
+COLOR:teal
+URL:https://www.rdco.com/media/dpqi2yjt/2026-board-and-committee-schedule.p
+ df
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rdco-eas-2026-12-17@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART:20261217T170000Z
+DTEND:20261217T190000Z
+SUMMARY:[Advisory Committee · Central Okanagan (RDCO)] RDCO Electoral Area
+  Services Committee
+DESCRIPTION:WHEN: Thursday\, December 17\, 2026\, 10:00 a.m. to 12:00 p.m. 
+ (Kelowna time)\nWHERE: RDCO Woodhaven Boardroom\, 1450 KLO Rd\, Kelowna\, 
+ BC\n\nCATEGORY: Committees & Advisory Bodies\nTYPE: Advisory Committee\nJU
+ RISDICTION: Central Okanagan (RDCO)\nTAGS: Open to Public\, Free\, Livestr
+ eamed\, RDCO Directors\, Details TBC\n\nABOUT:\nCommittee of the RDCO's el
+ ectoral-area directors (including Central Okanagan West along Westside Roa
+ d) dealing with rural services and land use. Agendas are posted 72 hours a
+ head\; public seating is limited\; streamed at rdco.com/board.\n\nDETAILS:
+ \nOrganizer: Regional District of Central Okanagan\nCost: Free\nLivestream
+ : rdco.com/board\n\nNOT YET CONFIRMED: End time not stated.\n\nSOURCE: htt
+ ps://www.rdco.com/media/dpqi2yjt/2026-board-and-committee-schedule.pdf
+LOCATION:RDCO Woodhaven Boardroom\, 1450 KLO Rd\, Kelowna\, BC
+CATEGORIES:Committees & Advisory Bodies,Advisory Committee,Central Okanagan
+  (RDCO),Open to Public,Free,Livestreamed,RDCO Directors,Details TBC
+COLOR:olivedrab
+URL:https://www.rdco.com/media/dpqi2yjt/2026-board-and-committee-schedule.p
+ df
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wk-econdev-survey-2026@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:[Public Consultation · West Kelowna] DEADLINE: West Kelowna Econom
+ ic Development Strategic Plan survey closes
+DESCRIPTION:WHEN: Monday\, December 21\, 2026 (all day / time TBC)\nWHERE: 
+ Online: ourwk.ca/wkedc\n\nCATEGORY: Business & Economic Policy\nTYPE: Publ
+ ic Consultation\nJURISDICTION: West Kelowna\nFEDERAL RIDING: Okanagan Lake
+  West—South Kelowna\nTAGS: Open to Public\, Free\, Delegations / Public 
+ Input\, Trade & Economy\, Deadline\n\nABOUT:\nBusinesses and residents can
+  help shape West Kelowna's first economic development strategic plan throu
+ gh the West Kelowna Economic Development Commission survey. An open house 
+ is planned for the new year.\n\nWHY IT MATTERS (GOVERNMENT RELATIONS):\nA 
+ direct way to put business priorities on the record for the new council's 
+ economic strategy.\n\nDETAILS:\nOrganizer: West Kelowna Economic Developme
+ nt Commission and City of West Kelowna\nRegistration / tickets: https://ww
+ w.ourwk.ca/wkedc/surveys/wkedc-survey\n\nSOURCE: https://www.westkelownaci
+ ty.ca/news/posts/west-kelowna-businesses-and-residents-invited-to-help-sha
+ pe-first-economic-development-strategic-plan/
+LOCATION:Online: ourwk.ca/wkedc
+CATEGORIES:Business & Economic Policy,Public Consultation,West Kelowna,Open
+  to Public,Free,Delegations / Public Input,Trade & Economy,Deadline
+COLOR:darkgoldenrod
+URL:https://www.westkelownacity.ca/news/posts/west-kelowna-businesses-and-r
+ esidents-invited-to-help-shape-first-economic-development-strategic-plan/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wfn-solstice-2026@okanagan-political-cal
+DTSTAMP:20261124T221617Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:[Community Festival · Westbank First Nation] Winter Solstice Celeb
+ ration (Sncewips Heritage Museum\, WFN)
+DESCRIPTION:WHEN: Monday\, December 21\, 2026 (all day / time TBC)\nWHERE: 
+ Sncewips Heritage Museum\, Unit 260\, 525 Highway 97 South\, West Kelowna\
+ , BC (venue TBC)\n\nCATEGORY: Indigenous & First Nations\nTYPE: Community 
+ Festival\nJURISDICTION: Westbank First Nation\nFEDERAL RIDING: Okanagan La
+ ke West—South Kelowna\nTAGS: Open to Public\, Reconciliation\, Details T
+ BC\n\nABOUT:\nWestbank First Nation's Sncewips Heritage Museum hosts a win
+ ter solstice celebration with cultural activities\, a vendors' market\, pe
+ rformances and a family fun zone. One of the few public WFN community even
+ ts this season.\n\nWHY IT MATTERS (GOVERNMENT RELATIONS):\nA good chance t
+ o engage respectfully with the WFN community\; WFN is a self-governing nat
+ ion in the riding.\n\nDETAILS:\nOrganizer: Sncewips Heritage Museum (Westb
+ ank First Nation)\nContact: museum@wfn.ca\, 778-755-2787\n\nNOT YET CONFIR
+ MED: Time and venue not published\; the museum address is shown.\n\nSOURCE
+ : https://www.sncewips.com/winter-solstice
+LOCATION:Sncewips Heritage Museum\, Unit 260\, 525 Highway 97 South\, West 
+ Kelowna\, BC (venue TBC)
+CATEGORIES:Indigenous & First Nations,Community Festival,Westbank First Nat
+ ion,Open to Public,Reconciliation,Details TBC
+COLOR:sienna
+URL:https://www.sncewips.com/winter-solstice
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

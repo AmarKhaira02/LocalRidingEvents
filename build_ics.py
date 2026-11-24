@@ -55,7 +55,8 @@ TYPES = [
 
 JURISDICTIONS = [
     "Kelowna", "West Kelowna", "Westbank First Nation", "Peachland", "Summerland",
-    "Central Okanagan (RDCO)", "SD23 Central Okanagan", "Provincial (BC)", "Federal",
+    "Central Okanagan (RDCO)", "Okanagan-Similkameen (RDOS)", "SD23 Central Okanagan",
+    "SD67 Okanagan Skaha", "Provincial (BC)", "Federal",
     "Online",
 ]
 
